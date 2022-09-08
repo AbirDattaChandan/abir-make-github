@@ -1,5 +1,7 @@
 #EXTM3U
 
+#INDIAN BANGLA
+
 #EXTINF:-1,STAR JALSHA ICC
 http://10.16.100.211/sports/stajalshaa.m3u8
 
@@ -43,4 +45,19 @@ http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
 http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,
 
-V#EXTINF:-1,
+#EXTINF:-1,
+
+
+#BANGLADESH
+
+#EXTINF:-1,G TV BD
+http://stream.amrbd.com:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=e40f3e9dacc7a834e00fc4584f1f565df75b8663-da935ad091987ef8a37661c6730ea9a6-1662682845-1662672045
+
+#EXTINF:-1,DBC NAMGLA
+http://stream.amrbd.com:8082/DBC-NEWS/tracks-v1a1/mono.m3u8?token=9c453616e15a32a4e4807281bf47608e89934811-18ff267b13b501403771f7b79190bcae-1662682876-1662672076
+
+#EXTINF:-1,EKKATOR BANGLA
+http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=c2fc5c1e10fe56ca7e82a3e319d4da6a2049ba17-087020142d6bc197b9b5652cee0bf0ca-1662682914-1662672114
+
+#EXTINF:-1,
+
