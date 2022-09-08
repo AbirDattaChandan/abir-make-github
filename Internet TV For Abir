@@ -61,50 +61,92 @@ http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=c2fc5c1e10fe
 
 #EXTINF:-1,IP TV BANGLA
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
+
 #EXTINF:-1,JORMOBHUMI TV
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/jonmobhumitv.stream/chunks.m3u8
+
 #EXTINF:-1,DOYEL TV
 http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8
+
 #EXTINF:-1,NATIONAL GEO WILD
 https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
+
 #EXTINF:-1,ANIMAL PLANET HD WORLD
 https://livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist.m3u8
+
 #EXTINF:-1,
 https://livecdn.fptplay.net/hda2/bbcearth_hls.smil/master.m3u8
+
 #EXTINF:-1,
 https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
+
 #EXTINF:-1,LOVE NATURE HD
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1,
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
 #EXTINF:-1,
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+
 #EXTINF:-1,
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
 #EXTINF:-1,
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1,
+
+#EXTINF:-1,ATN NEWS BD
+http://stream.amrbd.com:8082/Atn-News/tracks-v1a1/mono.m3u8?token=d1f4e219dd3362aa6e8af8da13466db7f6172be4-32b455ff14f274f6f7d9f240a5edfc2a-1662684480-1662673680
+
+#EXTINF:-1,SOMOY TV BD
+http://stream.amrbd.com:8082/Somoy-TV/tracks-v1a1/mono.m3u8?token=2fd3dbfbb3a23d8002ef55dc5c4ba232869315e4-d1a9ea2d697d4bff492ade250315fbe3-1662684824-1662674024
+#EXTINF:-1,NEWS 24 BD
+http://stream.amrbd.com:8082/News24bd/tracks-v1a1/mono.m3u8?token=8f2d432dce4b7a931d1d9129347db14f52b049fe-048eb0bc5baba6b158dcc6bfeea6b125-1662685011-1662674211
+
+#EXTINF:-1,CHANNEL 24 HD
+http://stream.amrbd.com:8082/Channel24/tracks-v1a1/mono.m3u8?token=4b6c21a311842f71f92ba79f1f277fe17bb4f6d6-62f23352157a8847da501e1f4dfc4d54-1662685057-1662674257
+
+#EXTINF:-1,ATN BANGLA BD
+http://stream.amrbd.com:8082/ATN-Bangla/tracks-v1a1/mono.m3u8?token=d8a7e01d47b08b63eb80deb11e14fb7b5f27d444-5b8a1f5aaf12af327dc994972821c96f-1662685104-1662674304
+
+#EXTINF:-1,CHANNEL HD BD
+http://stream.amrbd.com:8082/Channel-i/tracks-v1a1/mono.m3u8?token=193c61e4dbe32b11ee92dfbaa2d4c74aa6bccbe0-8ca5c1df6c68bd6379e12235811a1cf6-1662685147-1662674347
+
+#EXTINF:-1,ETV BANGLA BD
+http://stream.amrbd.com:8082/Ekushey-TV/tracks-v1a1/mono.m3u8?token=a445ef673ae476d967dcd260f9d0f7a8627b21f9-7fa4383c7a4e8492d9d0f7d2f0430de6-1662685176-1662674376
+
+#EXTINF:-1,NTV BD
+http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8?token=52ddbf4a631ad36a647b297b12705dc31a5b56ce-cd491432372657d8719ee807c63d3b19-1662685208-1662674408
+
+#EXTINF:-1,R TV BD
+http://stream.amrbd.com:8082/RTV/tracks-v1a1/mono.m3u8?token=ea25347cde4d2b2b2cc504b7522bb83b0b3a8a0b-6ddceb9ea2c0017a57f2e7b0faa7e94e-1662685268-1662674468
+
+#EXTINF:-1,SA TV BD
+http://stream.amrbd.com:8082/SATV/tracks-v1a1/mono.m3u8?token=d8cb085119e3a488ffb4b52001a511d61f83c896-0de1e2a21f4e6d602341c79265aa096b-1662685296-1662674496
+
+#EXTINF:-1,BANGLA VISION BD
+http://stream.amrbd.com:8082/BanglaVision/tracks-v1a1/mono.m3u8?token=03f0d310d520a02b94bff03ac8f709e93e834434-322ba502efd6f655bf7e9c7a5cb0355f-1662685332-1662674532
+
+#EXTINF:-1,BOISHAKHI BD
+http://stream.amrbd.com:8082/Boishakhi/tracks-v1a1/mono.m3u8?token=7e432d80bb12aa7ac6c09f60bb7cf6d8bdd1600d-5be82b102f862537c1811cdd6e547133-1662685350-1662674550
+
+#EXTINF:-1,GAAN BANGLA MUSIC
+http://stream.amrbd.com:8082/GaanBangla/tracks-v1a1/mono.m3u8?token=0707696832adb8fc0c2996c65c12b467a97967f3-91b3cd99ec0fa51d91a4a12f3915d615-1662685420-1662674620
+
+#EXTINF:-1,MOHONA TV BD
+http://stream.amrbd.com:8082/MohonaTV/tracks-v1a1/mono.m3u8?token=55e82c19517a8138e06e8d136939cd317d23bcde-59cd2e64513f26adc9246a2aac8aebf5-1662685451-1662674651
+
+#EXTINF:-1,MY TV BD
+http://stream.amrbd.com:8082/MyTV/tracks-v1a1/mono.m3u8?token=f3a19abb9f07df2f9a04e390fc08a1d98b0f897b-6bd3f8352f39e844807a17e9e7ef1189-1662685471-1662674671
+
+#EXTINF:-1,ANNODO TV
+http://stream.amrbd.com:8082/anandotv/tracks-v1a1/mono.m3u8?token=2ff363c6c548364086455510176bc4d1d5c3fe49-aaf292e5947009ebc41c4d53f0d5de6d-1662685494-1662674694
 
 #EXTINF:-1,
-
 #EXTINF:-1,
-
 #EXTINF:-1,
-
 #EXTINF:-1,
-
 #EXTINF:-1,
-
 #EXTINF:-1,
-
 #EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
 
