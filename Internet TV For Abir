@@ -142,7 +142,8 @@ http://stream.amrbd.com:8082/MyTV/tracks-v1a1/mono.m3u8?token=f3a19abb9f07df2f9a
 #EXTINF:-1,ANNODO TV
 http://stream.amrbd.com:8082/anandotv/tracks-v1a1/mono.m3u8?token=2ff363c6c548364086455510176bc4d1d5c3fe49-aaf292e5947009ebc41c4d53f0d5de6d-1662685494-1662674694
 
-#EXTINF:-1,
+#EXTINF:-1,KHILLIDI 2022
+https://drive.google.com/u/0/uc?id=1rRhgwQYYwp1PDHhgRveEsaxiAfyiuocC&export=download
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
