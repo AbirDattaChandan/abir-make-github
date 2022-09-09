@@ -10,37 +10,37 @@ http://10.16.100.211/sports/colorsbanglaaa.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA", SONY AATH ICC
 http://10.16.100.211/sports/sooonyaat8.m3u8
 
-#EXTINF:-1,ZEE BANGAL ICC
+#EXTINF:-1 group-title="INDIAN BANGLA", ZEE BANGAL ICC
 http://10.16.100.211/sports/zebanglaaaa.m3u8
 
-#EXTINF:-1,STAR JALASHA S1
+#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALASHA S1
 http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=6cfb9278fc60e2aab053954db5c10b495b333b61-bc704beca05c33f1daa2638c5d7c9ad6-1662680775-1662669975
 
-#EXTINF:-1,STAR JALASHA S2
+#EXTINF:-1group-title="INDIAN BANGLA", STAR JALASHA S2
 http://172.50.50.8:8080/hls/channel12.m3u8
 
-#EXTINF:-1,STAR JALASHA S3
+#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALASHA S3
 http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=6f8d581ed1e5a9c150a11bea7cf76144f57ad9a7-9da9f7544b4862b29a8d87551cff7e54-1662511206-1662500406
 
-#EXTINF:-1,STAR JALASHA S4 (3RD PARTY)
+#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALASHA S4 (3RD PARTY)
 http://jupiter.bdcabletv.com/Jalsha-Star/video.m3u8
 
-#EXTINF:-1,ZEE BANGLA (HQ)
+#EXTINF:-1 group-title="INDIAN BANGLA",ZEE BANGLA (HQ)
 http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=8647fa1bfd0c582b6ac71bf1bd70c4289c845ea3-ecdbeb77a94546993b37774d81c1b0b5-1662680906-1662670106
 
-#EXTINF:-1,ZEE BANGAL S1
+#EXTINF:-1 group-title="INDIAN BANGLA",ZEE BANGAL S1
 http://172.50.50.8:8080/hls/channel10.m3u8
 
-#EXTINF:-2,BTV (SPORT)
+#EXTINF:-1 group-title="Bangladesh" ,BTV (SPORT)
 http://103.106.2.152:13456/btv.m3u8
 
-#EXTINF:-2,BTV s1
+#EXTINF:-2 group-title="Bangladesh",BTV s1
 http://208.86.19.13:81/710.stream/index.m3u8
 
-#EXTINF:-2,SONY MAX HD
+#EXTINF:-2 group-title="HINDI",SONY MAX HD
 http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
 
-#EXTINF:-2,SONY MAX
+#EXTINF:-2 group-title="HINDI",SONY MAX
 http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,
 
