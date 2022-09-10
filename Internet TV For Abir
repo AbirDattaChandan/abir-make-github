@@ -119,8 +119,8 @@ http://stream.amrbd.com:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=d1243556aa1
 #EXTINF:-1 group-title="HINDI", MOVIES NOW HD
 http://stream.amrbd.com:8082/Movies_Now_2/tracks-v1a1/mono.m3u8?token=fe292fd533079076135530dc3696f69180c04d2a-221f8bf32f70f71662b18af709d8b155-1662839983-1662829183
 
-#EXTINF:-1 group-title="HINDI",
-
+#EXTINF:-1 group-title="HINDI", ‍সনি ম্যাক্স চেন্যাল ১
+http://223.29.212.14:8080/roarzone/77/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="HINDI",
