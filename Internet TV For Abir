@@ -34,18 +34,75 @@ http://172.50.50.8:8080/hls/channel10.m3u8
 #EXTINF:-1 group-title="Bangladesh" ,BTV (SPORT)
 http://103.106.2.152:13456/btv.m3u8
 
-#EXTINF:-2 group-title="Bangladesh",BTV s1
+#EXTINF:-1 group-title="Bangladesh",BTV s1
 http://208.86.19.13:81/710.stream/index.m3u8
 
-#EXTINF:-2 group-title="HINDI",SONY MAX HD
+#EXTINF:-1 group-title="HINDI",SONY MAX HD
 http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
 
-#EXTINF:-2 group-title="HINDI",SONY MAX
+#EXTINF:-1 group-title="HINDI",SONY MAX
 http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
 
-#EXTINF:-1,
+#EXTINF:-1 group-title="HINDI",SONY MAX HD (HQ)
+http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=8d8262bbded0165dcb9238b7fe37ab97574cf1a7-b7017e655a340cb91b67100987f9130c-1662827657-1662816857#EXTINF:-1,
 
+#EXTINF:-1 group-title="HINDI",
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+#EXTINF:-1 group-title="HINDI",
+
+#EXTINF:-1 group-title="HINDI",
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+
+#EXTINF:-1 group-title="HINDI",
 
 #BANGLADESH
 
@@ -334,6 +391,68 @@ http://10.16.100.211/sports/pakistantvPTV.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Free For Time", T Sports BD
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+
+#EXTINF:-1 group-title="Free For Time", Football channel
+http://223.29.212.14:8080/roarzone/102/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
 
 
 
