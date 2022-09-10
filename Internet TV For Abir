@@ -407,6 +407,342 @@ https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1 group-title="Free For Time", Football channel
 http://223.29.212.14:8080/roarzone/102/index.m3u8
 
+#EXTINF:-1 group-title="Free For Time", star short 1
+http://223.29.212.14:8080/roarzone/25/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", selected 1
+http://223.29.212.14:8080/roarzone/26/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", selected 2
+http://223.29.212.14:8080/roarzone/28/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", sony six
+http://223.29.212.14:8080/roarzone/24/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", ten 1
+http://223.29.212.14:8080/roarzone/20/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", ten 2
+http://223.29.212.14:8080/roarzone/21/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", Ten 3
+http://223.29.212.14:8080/roarzone/22/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", ptv sports (PK)
+http://223.29.212.14:8080/roarzone/73/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", SKY NET SPOETS
+http://223.29.212.14:8080/roarzone/92/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", SONY AATH
+http://223.29.212.14:8080/roarzone/33/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", STAR JALSHA HD S1
+http://223.29.212.14:8080/roarzone/30/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", ZEE BANGLA SD S1
+http://223.29.212.14:8080/roarzone/34/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", COLORS BANGLA S1
+http://223.29.212.14:8080/roarzone/66/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", ZEE BNGLA CHINEMA S1
+http://223.29.212.14:8080/roarzone/29/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", BANLA TALKIES MUSIC
+http://223.29.212.14:8080/roarzone/91/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", SANGEET BANGLA MUSIC
+http://223.29.212.14:8080/roarzone/96/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", GAAN BANGLA MUSIC
+http://223.29.212.14:8080/roarzone/58/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", ZOOM MUSIC
+http://223.29.212.14:8080/roarzone/60/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", ZING
+http://223.29.212.14:8080/roarzone/93/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", M TV
+http://223.29.212.14:8080/roarzone/46/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", STAR GOLD HD
+http://223.29.212.14:8080/roarzone/75/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", ZEE CHINEMA HD
+http://223.29.212.14:8080/roarzone/76/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", ZEE BOLIWOOD
+http://223.29.212.14:8080/roarzone/94/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", SONY MAX
+http://223.29.212.14:8080/roarzone/77/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", AND PICTURES HD
+http://223.29.212.14:8080/roarzone/100/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", ZEE ACTIONS
+http://223.29.212.14:8080/roarzone/69/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", SONY HD
+http://223.29.212.14:8080/roarzone/38/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time",STAR PLUS
+http://223.29.212.14:8080/roarzone/67/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", COLORS HD
+http://223.29.212.14:8080/roarzone/68/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", ZEE TV HD
+http://223.29.212.14:8080/roarzone/40/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", AND TV HD
+http://223.29.212.14:8080/roarzone/74/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", HD WORLD
+http://223.29.212.14:8080/roarzone/43/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", BBC EARTH HD
+http://223.29.212.14:8080/roarzone/44/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", SONY SAB
+http://223.29.212.14:8080/roarzone/36/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", CN
+http://223.29.212.14:8080/roarzone/79/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", NICK
+http://223.29.212.14:8080/roarzone/55/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", STAR MOVIES HD
+http://223.29.212.14:8080/roarzone/39/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", SONY PIX HD
+http://223.29.212.14:8080/roarzone/41/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", G TV
+http://223.29.212.14:8080/roarzone/1/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", ATN BANGLA
+http://223.29.212.14:8080/roarzone/2/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", BANGLA VISION HD
+http://223.29.212.14:8080/roarzone/3/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", CHANNEL 9
+http://223.29.212.14:8080/roarzone/4/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", CHANNEL 24 HD
+http://223.29.212.14:8080/roarzone/5/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", CHANNEL I HD
+http://223.29.212.14:8080/roarzone/6/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", INDEPENDENT HD
+http://223.29.212.14:8080/roarzone/12/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", SOMOY TV BD
+http://223.29.212.14:8080/roarzone/17/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", JAMUNA TV
+http://223.29.212.14:8080/roarzone/13/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", DBC NEWS
+http://223.29.212.14:8080/roarzone/7/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", NEWS 24
+http://223.29.212.14:8080/roarzone/18/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", EKKATOR TV BD
+http://223.29.212.14:8080/roarzone/11/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", R TV BD
+http://223.29.212.14:8080/roarzone/14/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", ANNODO TV
+http://223.29.212.14:8080/roarzone/16/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", SA TV
+http://223.29.212.14:8080/roarzone/15/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", DIPTO TV
+http://223.29.212.14:8080/roarzone/8/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", DURONTO TV BD
+http://223.29.212.14:8080/roarzone/10/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", MOVIE BANGLA
+http://223.29.212.14:8080/roarzone/19/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", MOHONA TV BD
+http://223.29.212.14:8080/roarzone/48/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", ATN NEWS
+http://223.29.212.14:8080/roarzone/49/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", MASRANGA TV BD
+http://223.29.212.14:8080/roarzone/51/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", N TV BD
+http://223.29.212.14:8080/roarzone/54/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", MY TV BD
+http://223.29.212.14:8080/roarzone/56/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", FOOTBALL S2
+http://223.29.212.14:8080/roarzone/57/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", NAGORIK TV BD
+http://223.29.212.14:8080/roarzone/59/index.m3u8
+
+#EXTINF:-1 group-title="Free For Time", BOISAKHI TV
+
+
+#EXTINF:-1 group-title="Free For Time", DESH TV BD
+
+
+#EXTINF:-1 group-title="Free For Time", EKUSHE TV BD
+
+
+#EXTINF:-1 group-title="Free For Time", ATN MUSIC 
+
+
+#EXTINF:-1 group-title="Free For Time", B TV WORLD
+
+
+#EXTINF:-1 group-title="Free For Time", B TV
+
+
+#EXTINF:-1 group-title="Free For Time", B TV SANSAD
+
+
+#EXTINF:-1 group-title="Free For Time", ALZAZERA TV 
+
+
+#EXTINF:-1 group-title="Free For Time", ZEE  BANGLA
+
+
+#EXTINF:-1 group-title="Free For Time", STAR JALASH HD S3
+
+
+#EXTINF:-1 group-title="Free For Time", BTV S2
+
+
+#EXTINF:-1 group-title="Free For Time",B TV WORLD
+http://103.106.2.152:13456/btv.m3u8
+
+#EXTINF:-1 group-title="Free For Time", BTV CHOTTOGRAM
+http://103.106.2.152:13456/btv_ctg.m3u8
+
+#EXTINF:-1 group-title="Free For Time", BANGLAVISION TV
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Free For Time", BANGLA TV
+http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
 #EXTINF:-1 group-title="Free For Time",
 
 
@@ -419,16 +755,9 @@ http://223.29.212.14:8080/roarzone/102/index.m3u8
 #EXTINF:-1 group-title="Free For Time",
 
 
-#EXTINF:-1 group-title="Free For Time",
-
 
 #EXTINF:-1 group-title="Free For Time",
 
-
-#EXTINF:-1 group-title="Free For Time",
-
-
-#EXTINF:-1 group-title="Free For Time",
 
 
 #EXTINF:-1 group-title="Free For Time",
@@ -437,22 +766,9 @@ http://223.29.212.14:8080/roarzone/102/index.m3u8
 #EXTINF:-1 group-title="Free For Time",
 
 
-#EXTINF:-1 group-title="Free For Time",
-
 
 #EXTINF:-1 group-title="Free For Time",
 
-
-#EXTINF:-1 group-title="Free For Time",
-
-
-#EXTINF:-1 group-title="Free For Time",
-
-
-#EXTINF:-1 group-title="Free For Time",
-
-
-#EXTINF:-1 group-title="Free For Time",
 
 
 
