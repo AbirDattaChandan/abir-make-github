@@ -16,7 +16,7 @@ http://10.16.100.211/sports/zebanglaaaa.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA", STAR JALASHA S1
 http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=6cfb9278fc60e2aab053954db5c10b495b333b61-bc704beca05c33f1daa2638c5d7c9ad6-1662680775-1662669975
 
-#EXTINF:-1group-title="INDIAN BANGLA", STAR JALASHA S2
+#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALASHA S2
 http://172.50.50.8:8080/hls/channel12.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA", STAR JALASHA S3
@@ -30,6 +30,34 @@ http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=8647fa1bfd0
 
 #EXTINF:-1 group-title="INDIAN BANGLA",ZEE BANGAL S1
 http://172.50.50.8:8080/hls/channel10.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", ZEE BANGLA (HQ)
+http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=a905461810c2c50ee58fc1f2644b740f11c7eedf-9ded6a978a8c1ac9b7b4e6afc9024333-1662838888-1662828088
+
+#EXTINF:-1 group-title="INDIAN BANGLA", COLORS BANGALA (HQ)
+http://stream.amrbd.com:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=d82417e840925703f63bb6904ca6066fcf0f75cf-b25ee74401210ac4443cd8ef632c1226-1662838743-1662827943
+
+#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA HD
+http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=b529d51dfe53b6cb3efebf5d0407ecc49f95fb20-6bbe97d67b7ee20c73a97407f61fa2e6-1662838821-1662828021
+
+#EXTINF:-1 group-title="INDIAN BANGLA", SONY AATH
+http://stream.amrbd.com:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=5a76ff0630616448958f7de764bbee3003fa5af1-daccf5942bfa04de9b1b47e9370d4cf5-1662838796-1662827996
+
+#EXTINF:-1 group-title="INDIAN BANGLA", ZEE BANGLA CINEMA
+http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=a7353c90a117f55de1671d68b2394561d7d25a41-da227dfd8fa212a3af8f7f3826bfe3c6-1662838766-1662827966
+
+#EXTINF:-1 group-title="INDIAN BANGLA", JALSHA MOVIES HD
+http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=7480aadb444351c33a9318b6f7b454025f17f2cd-b927d06bcda120870e154f60fe1d716a-1662838949-1662828149
+
+#EXTINF:-1 group-title="INDIAN BANGLA",
+
+
+#EXTINF:-1 group-title="INDIAN BANGLA",
+
+
+
+
+
 
 #EXTINF:-1 group-title="Bangladesh" ,BTV (SPORT)
 http://103.106.2.152:13456/btv.m3u8
@@ -46,57 +74,50 @@ http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI",SONY MAX HD (HQ)
 http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=8d8262bbded0165dcb9238b7fe37ab97574cf1a7-b7017e655a340cb91b67100987f9130c-1662827657-1662816857#EXTINF:-1,
 
-#EXTINF:-1 group-title="HINDI",
+#EXTINF:-1 group-title="HINDI", SONY MAX S4 (UK)
+http://familyplus.me:8080/live/younes123/123456/72072.ts
 
+#EXTINF:-1 group-title="HINDI", UTSAV GOLD 
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 
-#EXTINF:-1 group-title="HINDI",
+#EXTINF:-1 group-title="HINDI", STAR GOLD 
+http://jupiter.bdcabletv.com/Stargold_ENC/video.m3u8
 
+#EXTINF:-1 group-title="HINDI", STAR GOLD (UK)
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 group-title="HINDI",
+#EXTINF:-1 group-title="HINDI", B4U MOVIES
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
 
+#EXTINF:-1 group-title="HINDI", UTV ACTION
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 group-title="HINDI",
+#EXTINF:-1 group-title="HINDI",UTV MOVIES
+http://jupiter.bdcabletv.com/UTVMOV/video.m3u8
 
+#EXTINF:-1 group-title="HINDI", MTV BEATES HD
+http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
 
-#EXTINF:-1 group-title="HINDI",
+#EXTINF:-1 group-title="HINDI", SONY MAX HD (HQ)
+http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=0034f1995b73cc235fb6b337786e74fc4ae7a81e-f8830a6c969a2652d3d29feb2b9c5600-1662839172-1662828372
 
+#EXTINF:-1 group-title="HINDI", COLORS HD
+http://stream.amrbd.com:8082/colorsindia/tracks-v1a1/mono.m3u8?token=7d44fd0c15739d442c1b8445e95e832cb7be6ee9-bdbe8152ab68f0adf6b37a60c36ad684-1662839330-1662828530
 
-#EXTINF:-1 group-title="HINDI",
+#EXTINF:-1 group-title="HINDI", SONY SAB HD
+http://stream.amrbd.com:8082/Sony_Sab/tracks-v1a1/mono.m3u8?token=35f36061ea8a92eb7a735b149c8e1967fe398c31-7c9c552440dfe45946d630517f0e3d0d-1662839364-1662828564
 
+#EXTINF:-1 group-title="HINDI", sony tv
+http://stream.amrbd.com:8082/SonyTVHD/tracks-v1a1/mono.m3u8?token=ed414edf363936c0a90746abeab72afd48f48f93-d82efc8dd80456be1cb02c9f81e4a3a8-1662839838-1662829038
 
-#EXTINF:-1 group-title="HINDI",
+#EXTINF:-1 group-title="HINDI", STAR GOLD HD
+http://stream.amrbd.com:8082/SonyTVHD/tracks-v1a1/mono.m3u8?token=ed414edf363936c0a90746abeab72afd48f48f93-d82efc8dd80456be1cb02c9f81e4a3a8-1662839838-1662829038
 
-#EXTINF:-1 group-title="HINDI",
+#EXTINF:-1 group-title="HINDI",ZEE CINEMA HD
+http://stream.amrbd.com:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=d1243556aa1b35eefa1d88a066c0db2cc9318e74-99c2917f032c39728e02fd0015e0d535-1662839931-1662829131
 
-
-#EXTINF:-1 group-title="HINDI",
-
-
-
-#EXTINF:-1 group-title="HINDI",
-
-
-
-#EXTINF:-1 group-title="HINDI",
-
-
-
-#EXTINF:-1 group-title="HINDI",
-
-
-
-#EXTINF:-1 group-title="HINDI",
-
-
-
-#EXTINF:-1 group-title="HINDI",
-
-
-#EXTINF:-1 group-title="HINDI",
-
-
-
-
+#EXTINF:-1 group-title="HINDI", MOVIES NOW HD
+http://stream.amrbd.com:8082/Movies_Now_2/tracks-v1a1/mono.m3u8?token=fe292fd533079076135530dc3696f69180c04d2a-221f8bf32f70f71662b18af709d8b155-1662839983-1662829183
 
 #EXTINF:-1 group-title="HINDI",
 
@@ -275,6 +296,70 @@ http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.
 #EXTINF:-1 group-title="NEWS ALL",
 
 
+#EXTINF:-1 group-title="Documentary", ARIRANY TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary", SONY BBC EARTH HD
+http://103.162.136.235:4500/play/a00l/index.m3u8
+
+#EXTINF:-1 group-title="Documentary", DISCOVERY TV
+https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary", NET GEO HD
+https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Documentary", WILD TV HD
+http://103.162.136.235:4500/play/a01c/index.m3u8
+
+#EXTINF:-1 group-title="Documentary", DISCOVERY TV S2
+https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary", aNIMAL PLANET TV HD
+http://iptvworld.ml:2095/live/nSSs1m4A/fpN7XAz/136613.m3u8
+
+#EXTINF:-1 group-title="Documentary", NASA TV HD
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 group-title="Documentary", LOVE NATURE
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 group-title="Documentary", CGTV
+http://iptv.prosto.tv:7000/ch84/video.m3u8
+
+#EXTINF:-1 group-title="Documentary", ANNIMAL PLANET HD (HQ)
+http://stream.amrbd.com:8082/Animal_Planet/tracks-v1a1/mono.m3u8?token=a5bbbe54e739c9c09d647e86c2821747d292edda-82ab2031fa607515d16859e32a0f046f-1662840078-1662829278
+
+#EXTINF:-1 group-title="Documentary", DISCOVERY HD (HQ)
+http://stream.amrbd.com:8082/Discovery-Tv/tracks-v1a1/mono.m3u8?token=19209f0a14dc49e2260554b3792610110822c2e4-137c6141b66bf6e921aaecaeeaea393c-1662840114-1662829314
+
+#EXTINF:-1 group-title="Documentary", NET GEO HD S4
+http://stream.amrbd.com:8082/Nat-Geo/tracks-v1a1/mono.m3u8?token=699c148517a3fc9c9e9cd468da50194532cde04d-9fe35ea0b65c47da7c342362123df524-1662840177-1662829377
+
+#EXTINF:-1 group-title="Documentary", BBC EARTH HD (HQ)
+http://stream.amrbd.com:8082/Bbc-Earth/tracks-v1a1/mono.m3u8?token=82a465d16c8c0be498d85d58ee771388944e0c9c-6d58424b342868a93c4f2c1dc9e44e61-1662840215-1662829415
+
+#EXTINF:-1 group-title="Documentary", TLC HD 
+http://stream.amrbd.com:8082/TLC_World/tracks-v1a1/mono.m3u8?token=6d7a943478feb7bed01a3d5a2818aed1d02165aa-254541a8dc926cadac48b0c1bb6320c0-1662840221-1662829421
+
+#EXTINF:-1 group-title="Documentary",
+
+
+
+
+#EXTINF:-1 group-title="Documentary",
+
+
+
+
+#EXTINF:-1 group-title="Documentary",
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="SPORTS", G TV S1
 http://10.16.100.211/sports/gazitv@.m3u8
 
@@ -320,78 +405,32 @@ http://10.16.100.245/hindi/ptvSports_1ocal.m3u8
 #EXTINF:-1 group-title="SPORTS", P Sports S5
 http://10.16.100.211/sports/pakistantvPTV.m3u8
 
-#EXTINF:-1 group-title="SPORTS", SONY TEN S
+#EXTINF:-1 group-title="SPORTS", SONY TEN Six HD
+http://jupiter.bdcabletv.com/SonySixHD/video.m3u8
 
-#EXTINF:-1 group-title="SPORTS", SONY TEN S
+#EXTINF:-1 group-title="SPORTS", SONY TEN 1 HD
+http://jupiter.bdcabletv.com/ten_1-enc/video.m3u8
 
-#EXTINF:-1 group-title="SPORTS", SONY TEN S
+#EXTINF:-1 group-title="SPORTS", SONY TEN S2
+http://jupiter.bdcabletv.com/ten_2-enc/video.m3u8
 
-#EXTINF:-1 group-title="SPORTS", SONY TEN S
+#EXTINF:-1 group-title="SPORTS", SONY sport 1 HD
+http://103.162.136.235:4500/play/a015/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS", SONY TEN S
+#EXTINF:-1 group-title="SPORTS", SONY sport 1 hindi
+http://103.162.136.235:4500/play/a017/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS", SONY sport 2
+http://103.162.136.235:4500/play/a016/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS", SONY sport 1
+http://103.162.136.235:4500/play/a013/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS", SONY sport selected 1
+http://103.162.136.235:4500/play/a00v/index.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="SPORTS", SONY sport selected 1
+http://103.162.136.235:4500/play/a00w/index.m3u8
 
 
 
@@ -597,34 +636,34 @@ http://223.29.212.14:8080/roarzone/57/index.m3u8
 http://223.29.212.14:8080/roarzone/59/index.m3u8
 
 #EXTINF:-1 group-title="Free For Time", BOISAKHI TV
-
+http://223.29.212.14:8080/roarzone/61/index.m3u8
 
 #EXTINF:-1 group-title="Free For Time", DESH TV BD
-
+http://223.29.212.14:8080/roarzone/62/index.m3u8
 
 #EXTINF:-1 group-title="Free For Time", EKUSHE TV BD
-
+http://223.29.212.14:8080/roarzone/65/index.m3u8
 
 #EXTINF:-1 group-title="Free For Time", ATN MUSIC 
-
+http://223.29.212.14:8080/roarzone/82/index.m3u8
 
 #EXTINF:-1 group-title="Free For Time", B TV WORLD
-
+http://223.29.212.14:8080/roarzone/84/index.m3u8
 
 #EXTINF:-1 group-title="Free For Time", B TV
-
+http://223.29.212.14:8080/roarzone/85/index.m3u8
 
 #EXTINF:-1 group-title="Free For Time", B TV SANSAD
-
+http://223.29.212.14:8080/roarzone/88/index.m3u8
 
 #EXTINF:-1 group-title="Free For Time", ALZAZERA TV 
-
+http://223.29.212.14:8080/roarzone/89/index.m3u8
 
 #EXTINF:-1 group-title="Free For Time", ZEE  BANGLA
-
+http://familyplus.me:8080/live/younes123/123456/216751.ts
 
 #EXTINF:-1 group-title="Free For Time", STAR JALASH HD S3
-
+http://familyplus.me:8080/live/younes123/123456/216748.ts
 
 #EXTINF:-1 group-title="Free For Time", BTV S2
 
@@ -641,28 +680,22 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="Free For Time", BANGLA TV
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Free For Time",
+#EXTINF:-1 group-title="Free For Time", VOICE TV
+https://tempskyview.jagobd.com:441/live-orgin/voicetv.stream/chunks.m3u8
 
 
-
-#EXTINF:-1 group-title="Free For Time",
-
-
-
-#EXTINF:-1 group-title="Free For Time",
+#EXTINF:-1 group-title="Free For Time", JALSHA MOVIES S2
+http://jupiter.bdcabletv.com/jalshamuvie-enc/video.m3u8
 
 
+#EXTINF:-1 group-title="Free For Time", HANGAMA TV
+http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 group-title="Free For Time",
+#EXTINF:-1 group-title="Free For Time", & FLIEX TV
+http://jupiter.bdcabletv.com/AndFlixHD/video.m3u8
 
-
-
-#EXTINF:-1 group-title="Free For Time",
-
-
-
-#EXTINF:-1 group-title="Free For Time",
-
+#EXTINF:-1 group-title="Free For Time", SONY MAX S2 (uk)
+http://familyplus.me:8080/live/younes123/123456/72072.ts
 
 
 #EXTINF:-1 group-title="Free For Time",
@@ -704,16 +737,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Free For Time",
 
 
-#EXTINF:-1 group-title="Free For Time",
-
-
-
-#EXTINF:-1 group-title="Free For Time",
-
-
-
-#EXTINF:-1 group-title="Free For Time",
-
 
 #EXTINF:-1 group-title="Free For Time",
 
@@ -723,13 +746,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 
 
 #EXTINF:-1 group-title="Free For Time",
-
-
-#EXTINF:-1 group-title="Free For Time",
-
-
-#EXTINF:-1 group-title="Free For Time",
-
 
 
 
@@ -752,6 +768,27 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Free For Time",
 
 
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
+#EXTINF:-1 group-title="Free For Time",
+
+
 #EXTINF:-1 group-title="Free For Time",
 
 
@@ -771,6 +808,38 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 
 
 
+#EXTINF:-1 group-title="MUSIC", MTV BEATES HD
+http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="MUSIC", B4U MUSIC
+http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 group-title="MUSIC", MUSIC INDIA
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
+
+
+#EXTINF:-1 group-title="MUSIC",8XM MUSIC
+http://144.217.70.181:9587/hin2/8XM/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 group-title="MUSIC", MASTI MUSIC
+http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 group-title="MUSIC", ZOOM MUSIC (HQ)
+http://stream.amrbd.com:8082/Zoom/tracks-v1a1/mono.m3u8?token=8eb1a56972b1d0ebf88395bb63c0c1fc640f5eb4-d2e942a66aeabf987e6fb062f69f0f95-1662838291-1662827491
+
+#EXTINF:-1 group-title="MUSIC",M TV (HQ)
+http://stream.amrbd.com:8082/Mtv/tracks-v1a1/mono.m3u8?token=321c8a73b93f3359a97a4324cb908451e4b6481a-218bb5707e2d1468aea4671798aceb47-1662838399-1662827599
+
+#EXTINF:-1 group-title="MUSIC", BINDDAS MUSIC
+http://stream.amrbd.com:8082/Bindass/tracks-v1a1/mono.m3u8?token=f542b4a451e9c34640b6cf52d8b32824d0608f50-18a2d99bc86b822ac3483fcae33e8f08-1662838448-1662827648
+
+#EXTINF:-1 group-title="MUSIC", 9XM (HQ)
+http://stream.amrbd.com:8082/9XM/tracks-v1a1/mono.m3u8?token=bb671ba0ddeac15da29f187a1358874fb89ac358-74bd0588b6400f78fc137dbc3dff6b90-1662838507-1662827707
+
+#EXTINF:-1 group-title="MUSIC",9XM JALWA
+http://stream.amrbd.com:8082/9X-Jalwa/tracks-v1a1/mono.m3u8?token=95e9987fe00185c550a795682341590d5b68039c-371251f857f315af074bba5543fe17c2-1662838535-1662827735
+
+#EXTINF:-1 group-title="MUSIC",
 
 
 
