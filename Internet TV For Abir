@@ -839,8 +839,8 @@ http://stream.amrbd.com:8082/9XM/tracks-v1a1/mono.m3u8?token=bb671ba0ddeac15da29
 #EXTINF:-1 group-title="MUSIC",9XM JALWA
 http://stream.amrbd.com:8082/9X-Jalwa/tracks-v1a1/mono.m3u8?token=95e9987fe00185c550a795682341590d5b68039c-371251f857f315af074bba5543fe17c2-1662838535-1662827735
 
-#EXTINF:-1 group-title="MUSIC",
-
+#EXTINF:-1 group-title="MUSIC", T- Series Music (BDXI)
+http://172.50.50.66:8080/45/tracks-v1a1/mono.m3u8
 
 
 
