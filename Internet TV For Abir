@@ -591,7 +591,7 @@ http://iptv.sarkernet.com/hls/Gazi-TV.m3u8
 #EXTINF:-1 group-title="Free For Time", TRAVEL HD TV
 http://iptv.sarkernet.com/hls/travelxp.m3u8
 
-#EXTINF:-1 group-title="Free For Time",EKKATOR TV
+#EXTINF:-1 group-title="Free For Time", NEXUS TV HD
 http://iptv.sarkernet.com/hls/nexus.m3u8
 
 #EXTINF:-1 group-title="Free For Time", CHANNELS I
@@ -627,7 +627,7 @@ http://iptv.sarkernet.com/hls/dis-kid.m3u8
 #EXTINF:-1 group-title="Free For Time", NICK KIDS
 http://iptv.sarkernet.com/hls/nick.m3u8
 
-#EXTINF:-1 group-title="Free For Time", CARTOON NETWORK
+#EXTINF:-1 group-title="Free For Time", CN
 http://iptv.sarkernet.com/hls/cn.m3u8
 
 #EXTINF:-1 group-title="Free For Time", POGO
@@ -657,10 +657,11 @@ http://iptv.sarkernet.com/hls/akash.m3u8
 #EXTINF:-1 group-title="Free For Time", LOTUS TV
 http://iptv.sarkernet.com/hls/lotus.m3u8
 
+
 #EXTINF:-1 group-title="Free For Time", ENTER 10 TV
 http://iptv.sarkernet.com/hls/enterr10.m3u8
 
-#EXTINF:-1 group-title="Free For Time", STAR BANGLA TV
+#EXTINF:-1 group-title="Free For Time", KHUBBO TV
 http://iptv.sarkernet.com/hls/khushboo.m3u8
 
 #EXTINF:-1 group-title="Free For Time", JAMUNA TV BD
@@ -724,10 +725,10 @@ http://223.29.212.14:8080/roarzone/92/index.m3u8
 http://223.29.212.14:8080/roarzone/33/index.m3u8
 
 #EXTINF:-1 group-title="Free For Time", STAR JALSHA HD S1
-http://103.16.24.54:8080/channel5/index.m3u8
+http://223.29.212.14:8080/roarzone/30/index.m3u8
 
 #EXTINF:-1 group-title="Free For Time", ZEE BANGLA SD S1
-http://103.16.24.54:8080/channel4/index.m3u8
+http://223.29.212.14:8080/roarzone/34/index.m3u8
 
 #EXTINF:-1 group-title="Free For Time", COLORS BANGLA S1
 http://223.29.212.14:8080/roarzone/66/index.m3u8
@@ -744,8 +745,8 @@ http://223.29.212.14:8080/roarzone/96/index.m3u8
 #EXTINF:-1 group-title="Free For Time", GAAN BANGLA MUSIC
 http://223.29.212.14:8080/roarzone/58/index.m3u8
 
-#EXTINF:-1 group-title="Free For Time", STAR BHARAT HD
-http://103.16.24.54:8080/channel8/index.m3u8
+#EXTINF:-1 group-title="Free For Time", ZOOM MUSIC
+http://223.29.212.14:8080/roarzone/60/index.m3u8
 
 #EXTINF:-1 group-title="Free For Time", ZING
 http://223.29.212.14:8080/roarzone/93/index.m3u8
@@ -1093,21 +1094,7 @@ http://172.50.50.66:8080/45/tracks-v1a1/mono.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="MUSIC", MTV BEATES HD
-
+#EXTINF:-1 group-title="SARKAR TV PLAYLIST"
 #EXTINF:-1,SONY SIX
 http://streams.sarkernet.com/hls/stream1.m3u8
 #EXTINF:-1,ZEE BANGLA
@@ -1231,3 +1218,14 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 
 #EXTINF:-1,Rtv
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
