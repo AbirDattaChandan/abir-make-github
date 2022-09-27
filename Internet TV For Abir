@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA ICC
-http://10.16.100.211/sports/stajalshaa.m3u8
+http://10.16.100.245/hindi/starjolsha.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA", COLORS BANGLA ICC
 http://10.16.100.211/sports/colorsbanglaaa.m3u8
@@ -11,7 +11,7 @@ http://10.16.100.211/sports/colorsbanglaaa.m3u8
 http://10.16.100.211/sports/sooonyaat8.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA", ZEE BANGAL ICC
-http://10.16.100.211/sports/zebanglaaaa.m3u8
+http://10.16.100.207:8088/sports/zbanglaa.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA", STAR JALASHA S1
 http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=6cfb9278fc60e2aab053954db5c10b495b333b61-bc704beca05c33f1daa2638c5d7c9ad6-1662680775-1662669975
