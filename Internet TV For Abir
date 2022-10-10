@@ -204,10 +204,14 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 http://208.86.19.13:81/710.stream/index.m3u8
 
 #EXTINF:-1 group-title="HINDI",SONY MAX HD
-http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
+http://50.7.237.4:8080/SONYMAXHD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="HINDI",SONY MAX
 http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="HINDI",SONY MAX HD
+http://50.7.237.4:8080/SONYMAXHD/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1 group-title="HINDI",SONY MAX HD (HQ)
 http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=8d8262bbded0165dcb9238b7fe37ab97574cf1a7-b7017e655a340cb91b67100987f9130c-1662827657-1662816857#EXTINF:-1,
@@ -244,6 +248,21 @@ http://stream.amrbd.com:8082/colorsindia/tracks-v1a1/mono.m3u8?token=7d44fd0c157
 
 #EXTINF:-1 group-title="HINDI", SONY SAB HD
 http://stream.amrbd.com:8082/Sony_Sab/tracks-v1a1/mono.m3u8?token=35f36061ea8a92eb7a735b149c8e1967fe398c31-7c9c552440dfe45946d630517f0e3d0d-1662839364-1662828564
+
+#EXTINF:-1 group-title="HINDI", SOny Sab Hd 2
+http://50.7.237.4:8080/SONYSABHD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="HINDI", SONY SAB HD (HQ)
+http://208.86.19.13:81/702.stream/index.m3u8
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="HINDI", sony tv
 http://stream.amrbd.com:8082/SonyTVHD/tracks-v1a1/mono.m3u8?token=ed414edf363936c0a90746abeab72afd48f48f93-d82efc8dd80456be1cb02c9f81e4a3a8-1662839838-1662829038
