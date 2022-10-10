@@ -1,11 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA ICC
-http://10.16.100.245/hindi/starjolsha.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA HD (jio)
+https://nayeem-ban.chadasaniya.ml/STARJALSAIND-Bang/index.m3u8?token=test
 
-#EXTINF:-1 group-title="INDIAN BANGLA", COLORS BANGLA ICC
-http://10.16.100.211/sports/colorsbanglaaa.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA", COLORS BANGLA (jio)
+http://nayeem-ban.chadasaniya.ml/COLORSBANGLAIND-Bang/index.m3u8?token=test
 
 #EXTINF:-1 group-title="INDIAN BANGLA", SONY AATH ICC
 http://10.16.100.211/sports/sooonyaat8.m3u8
@@ -20,10 +20,22 @@ http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=6cfb9278fc6
 http://172.50.50.8:8080/hls/channel12.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA", STAR JALASHA S3
-http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=6f8d581ed1e5a9c150a11bea7cf76144f57ad9a7-9da9f7544b4862b29a8d87551cff7e54-1662511206-1662500406
+http://103.16.24.54:8080/channel5/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA", STAR JALASHA S4 (3RD PARTY)
 http://jupiter.bdcabletv.com/Jalsha-Star/video.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA S5
+http://50.7.237.4:8080/STARJALSHA/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA S7
+http://103.16.24.54:8080/channel5/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA S8
+http://50.7.237.4:8080/STARJALSHA/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA S9
+
 
 #EXTINF:-1 group-title="INDIAN BANGLA",ZEE BANGLA (HQ)
 http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=8647fa1bfd0c582b6ac71bf1bd70c4289c845ea3-ecdbeb77a94546993b37774d81c1b0b5-1662680906-1662670106
@@ -49,6 +61,18 @@ http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=a7353c9
 #EXTINF:-1 group-title="INDIAN BANGLA", JALSHA MOVIES HD
 http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=7480aadb444351c33a9318b6f7b454025f17f2cd-b927d06bcda120870e154f60fe1d716a-1662838949-1662828149
 
+#EXTINF:-1 group-title="INDIAN BANGLA", JALSHA MOVIES HD S2
+http://nayeem-ban.chadasaniya.ml/STAR_JHALSA_MOVIES_Bang/index.m3u8?token=test
+
+#EXTINF:-1 group-title="INDIAN BANGLA", JALSHA MOVIES HD S3
+http://103.99.249.107:81/play/a02w
+
+#EXTINF:-1 group-title="INDIAN BANGLA", JALSHA MOVIES HD S4
+http://208.86.19.13:81/716.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", JALSHA MOVIES HD S5
+
+
 #EXTINF:-1 group-title="INDIAN BANGLA",sampal
 https://mdisk.me/convertor/640x267/jHupeJ
 
@@ -61,6 +85,18 @@ https://mdisk.me/convertor/640x267/jHupeJ
 
 #EXTINF:-1 group-title="Bangladesh" ,BTV (SPORT)
 http://103.106.2.152:13456/btv.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" ,NTV S1
+http://208.86.19.13:81/652.stream/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" ,NTV UK
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" ,NTV S
+
+
+#EXTINF:-1 group-title="Bangladesh" ,NTV S
+
 
 #EXTINF:-1 group-title="Bangladesh",BTV s1
 http://208.86.19.13:81/710.stream/index.m3u8
