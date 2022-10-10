@@ -57,7 +57,19 @@ http://103.16.24.54:8080/channel5/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA S8
 http://50.7.237.4:8080/STARJALSHA/index.m3u8
 
-#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA S9
+#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA S9 (BDIPTV)
+http://bdiptv.net:8282/jalsha/tracks-v1a1/mono.m3u8?token=382a4b19fb866875abaa58fb476eb4e95caaf877-a40b8b3443994e8f292b0d52440caf16-1665433354-1665422554
+
+#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA S10 (BDIPTV)
+http://bdiptv.net:8282/jalsha/tracks-v1a1/mono.m3u8?token=843cd11b2ef8a101a43b13594981bbcabaca9d37-be94c6646796742c8b8d381c1e665e80-1665433217-1665422417
+
+#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA S11 (BCIPTV)
+http://15.1.5.14:8082/jalsha/tracks-v1a1/mono.m3u8?token=ef74b7f460004c75b210abf27d9e61a2f74fef22-039998b2b726963ab71f60592f3cfd06-1665433532-1665422732
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="INDIAN BANGLA",ZEE BANGLA (HQ)
