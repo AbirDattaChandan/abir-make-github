@@ -46,7 +46,7 @@ http://172.50.50.8:8080/hls/channel12.m3u8
 http://103.16.24.54:8080/channel5/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA", STAR JALASHA S4 (3RD PARTY)
-http://jupiter.bdcabletv.com/Jalsha-Star/video.m3u8
+http://50.7.237.4:8080/STARJALSHA/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA S5
 http://50.7.237.4:8080/STARJALSHA/tracks-v1a1/index.m3u8
