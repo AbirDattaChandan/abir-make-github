@@ -136,6 +136,52 @@ https://mdisk.me/convertor/640x267/jHupeJ
 
 
 
+#EXTINF:-1 group-title="BCIPTV",SONY AATH
+http://15.1.5.14:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=e3176f2f2181deb2e0a4ee59d413948cb91b3bf9-e7527d3b45bfb43efe91a7a54285ef3d-1665433804-1665423004
+
+#EXTINF:-1 group-title="BCIPTV",STAR JALSHA HD S1
+
+
+
+#EXTINF:-1 group-title="BCIPTV",STAR JALSHA HD S2
+
+
+
+#EXTINF:-1 group-title="BCIPTV",STAR JALSHA HD S3
+
+
+
+
+#EXTINF:-1 group-title="BCIPTV",ZEE BANGLA
+http://15.1.5.14:8082/zee-bangla/tracks-v1a1/mono.m3u8?token=b34212683719bd43b5d82321565ee9aa936d2b85-8f50797c5817bc406eccc838021801df-1665433993-1665423193
+
+#EXTINF:-1 group-title="BCIPTV", ZEE BANGLA HD S1
+http://15.1.5.10:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8?token=a6dd6f5dfe10b81d8d2e455dc737afda2e96234d-b4c4109fcb24ffde7aca1e0f03057637-1665434192-1665423392
+
+#EXTINF:-1 group-title="BCIPTV",Zee Bangla s2
+http://bdiptv.net:8282/zee-bangla-cinema/tracks-v1a1/mono.m3u8?token=96907f8a3d96a20697c99de1ff11c2860f4b4156-8bd2081b0eb50f16dcac1b7180ba30f5-1665434203-1665423403
+
+#EXTINF:-1 group-title="BCIPTV",Jalsha Movies HD 1
+http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8?token=eeeb91c3c597cb175d59e393d3bd183664010bc0-79b1e52ef3aadd5bc355d98a845a48e1-1665434339-1665423539
+
+#EXTINF:-1 group-title="BCIPTV",Jalsha Movies HD 2
+http://bdiptv.net:8282/jalsha-movies/tracks-v1a1/mono.m3u8?token=29e0d0b15bd7dc5fe497116f870764f4850b429a-5ce48a1c0671837e9fcc639bb9628c06-1665434340-1665423540
+
+#EXTINF:-1 group-title="BCIPTV",Jalsha Movies HD 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
