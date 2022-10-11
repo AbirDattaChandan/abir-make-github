@@ -410,32 +410,7 @@ https://bdcast-live2.b-cdn.net/jago/1/live-orgin/jonmobhumitv.stream/chunks.m3u8
 #EXTINF:-1,DOYEL TV
 http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8
 
-#EXTINF:-1,NATIONAL GEO WILD
-https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
 
-#EXTINF:-1,ANIMAL PLANET HD WORLD
-https://livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist.m3u8
-
-#EXTINF:-1,ch2
-https://livecdn.fptplay.net/hda2/bbcearth_hls.smil/master.m3u8
-
-#EXTINF:-1,ch3
-https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
-
-#EXTINF:-1,LOVE NATURE HD
-http://bamus-eng-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,ch4
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-
-#EXTINF:-1,ch5
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-
-#EXTINF:-1,ch6
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1,
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 #EXTINF:-1,ATN NEWS BD
 http://stream.amrbd.com:8082/Atn-News/tracks-v1a1/mono.m3u8?token=d1f4e219dd3362aa6e8af8da13466db7f6172be4-32b455ff14f274f6f7d9f240a5edfc2a-1662684480-1662673680
@@ -624,20 +599,32 @@ http://stream.amrbd.com:8082/Bbc-Earth/tracks-v1a1/mono.m3u8?token=82a465d16c8c0
 #EXTINF:-1 group-title="Documentary", TLC HD 
 http://stream.amrbd.com:8082/TLC_World/tracks-v1a1/mono.m3u8?token=6d7a943478feb7bed01a3d5a2818aed1d02165aa-254541a8dc926cadac48b0c1bb6320c0-1662840221-1662829421
 
-#EXTINF:-1 group-title="Documentary",
+#EXTINF:-1 group-title="Documentary",NATIONAL GEO WILD ch2
+https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
 
+#EXTINF:-1 group-title="Documentary", ANIMAL PLANET HD WORLD ch2
+https://livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist.m3u8
 
+#EXTINF:-1 group-title="Documentary",ch1
+https://livecdn.fptplay.net/hda2/bbcearth_hls.smil/master.m3u8
 
+#EXTINF:-1 group-title="Documentary",ch2
+https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Documentary",
+#EXTINF:-1 group-title="Documentary", love nature ch2
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Documentary",ch4
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
+#EXTINF:-1 group-title="Documentary",ch5
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 
+#EXTINF:-1 group-title="Documentary",ch6
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 group-title="Documentary",
-
-
-
+#EXTINF:-1 group-title="Documentary",ch7
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 
 
