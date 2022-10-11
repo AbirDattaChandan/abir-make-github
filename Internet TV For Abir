@@ -416,22 +416,22 @@ https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
 #EXTINF:-1,ANIMAL PLANET HD WORLD
 https://livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1,ch2
 https://livecdn.fptplay.net/hda2/bbcearth_hls.smil/master.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1,ch3
 https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
 
 #EXTINF:-1,LOVE NATURE HD
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1,ch4
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1,ch5
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1,ch6
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1,
