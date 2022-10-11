@@ -599,28 +599,13 @@ http://stream.amrbd.com:8082/Bbc-Earth/tracks-v1a1/mono.m3u8?token=82a465d16c8c0
 #EXTINF:-1 group-title="Documentary", TLC HD 
 http://stream.amrbd.com:8082/TLC_World/tracks-v1a1/mono.m3u8?token=6d7a943478feb7bed01a3d5a2818aed1d02165aa-254541a8dc926cadac48b0c1bb6320c0-1662840221-1662829421
 
-#EXTINF:-1 group-title="Documentary",NATIONAL GEO WILD ch2
-https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="Documentary", ANIMAL PLANET HD WORLD ch2
-https://livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="Documentary",ch1
-https://livecdn.fptplay.net/hda2/bbcearth_hls.smil/master.m3u8
-
-#EXTINF:-1 group-title="Documentary",ch2
-https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Documentary", love nature ch2
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Documentary",ch4
+#EXTINF:-1 group-title="Documentary",DW CH 1
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="Documentary",ch5
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-
-#EXTINF:-1 group-title="Documentary",ch6
+#EXTINF:-1 group-title="Documentary",REDBULL CH 1
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 group-title="Documentary",ch7
