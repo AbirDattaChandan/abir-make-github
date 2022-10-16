@@ -76,24 +76,8 @@ http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=a7353c9
 #EXTINF:-1 group-title="INDIAN BANGLA", 25.JALSHA MOVIES HD
 http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=7480aadb444351c33a9318b6f7b454025f17f2cd-b927d06bcda120870e154f60fe1d716a-1662838949-1662828149
 
-#EXTINF:-1 group-title="INDIAN BANGLA",
-
-
-#EXTINF:-1 group-title="INDIAN BANGLA",
-
-
-
 #EXTINF:-1 group-title="BCIPTV",SONY AATH
 http://15.1.5.14:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=e3176f2f2181deb2e0a4ee59d413948cb91b3bf9-e7527d3b45bfb43efe91a7a54285ef3d-1665433804-1665423004
-
-#EXTINF:-1 group-title="BCIPTV",STAR JALSHA HD S1
-
-
-#EXTINF:-1 group-title="BCIPTV",
-
-
-#EXTINF:-1 group-title="BCIPTV",
-
 
 #EXTINF:-1 group-title="BCIPTV",ZEE BANGLA
 http://15.1.5.14:8082/zee-bangla/tracks-v1a1/mono.m3u8?token=b34212683719bd43b5d82321565ee9aa936d2b85-8f50797c5817bc406eccc838021801df-1665433993-1665423193
@@ -124,16 +108,6 @@ http://172.16.50.2:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=577a75b7ca3a9a601d18
 #EXTINF:-1 group-title="BCIPTV", SONY TEN 1 HD
 http://172.16.50.2:8082/Ten1/tracks-v1a1/mono.m3u8?token=483dd4160b6e995534da34c22ca275b63f286f72-695651e7aa39fb4bb4056963c7c4be1e-1665517164-1665506364
 
-#EXTINF:-1 group-title="BCIPTV", SONY TEN 2 HD
-
-
-
-
-#EXTINF:-1 group-title="BCIPTV", SONY TEN 3 HD
-
-
-
-
 #EXTINF:-1 group-title="BCIPTV", STAR SPORTS 1 HD
 http://103.16.24.54:8080/channel1/index.m3u8
 
@@ -146,10 +120,8 @@ http://stream.amrbd.com:8082/Star-Sports-2/tracks-v1a1/mono.m3u8?token=24d78700c
 #EXTINF:-1 group-title="BCIPTV", DUBAI TV SPORTS
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 
-
 #EXTINF:-1 group-title="BCIPTV", G TV SPORTS 1
 http://stream.amrbd.com:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=32df3dd5bdab351e8d186d406661ea34672dbfe4-adb91cdb1b3690b6db43d8b21ea304c0-1665517700-1665506900
-
 
 #EXTINF:-1 group-title="BCIPTV", COLORS BANGLA HD
 http://172.16.50.2:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=11a1ced1f2361e6702c9345da23ce0da6e737e50-2caad3363355966a4c6b60222977dce5-1665517934-1665507134
@@ -289,10 +261,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 group-title="BCIPTV",
 
 
-
-
-
-
 #EXTINF:-1 group-title="BCIPTV",Anando TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
@@ -428,9 +396,8 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 #EXTINF:-1 group-title="BCIPTV",Rtv
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="BCIPTV", 
 
-
+#HINDI    #HINDI    #HINDI    #HINDI    #HINDI     #HINDI
 
 #EXTINF:-1 group-title="HINDI",SONY MAX HD
 http://50.7.237.4:8080/SONYMAXHD/tracks-v1a1/index.m3u8
@@ -440,7 +407,6 @@ http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="HINDI",SONY MAX HD
 http://50.7.237.4:8080/SONYMAXHD/tracks-v1a1/index.m3u8
-
 
 #EXTINF:-1 group-title="HINDI",SONY MAX HD (HQ)
 http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=8d8262bbded0165dcb9238b7fe37ab97574cf1a7-b7017e655a340cb91b67100987f9130c-1662827657-1662816857#EXTINF:-1,
@@ -484,9 +450,6 @@ http://50.7.237.4:8080/SONYSABHD/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="HINDI", SONY SAB HD (HQ)
 http://208.86.19.13:81/702.stream/index.m3u8
 
-
-
-
 #EXTINF:-1 group-title="HINDI", sony tv
 http://stream.amrbd.com:8082/SonyTVHD/tracks-v1a1/mono.m3u8?token=ed414edf363936c0a90746abeab72afd48f48f93-d82efc8dd80456be1cb02c9f81e4a3a8-1662839838-1662829038
 
@@ -505,7 +468,7 @@ http://223.29.212.14:8080/roarzone/77/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="HINDI",
 
-#BANGLADESH
+#BANGLADESH    #BANGLADESH    #BANGLADESH    #BANGLADESH    #BANGLADESH
 
 #EXTINF:-1 group-title="Bangladesh", G TV BD
 http://stream.amrbd.com:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=e40f3e9dacc7a834e00fc4584f1f565df75b8663-da935ad091987ef8a37661c6730ea9a6-1662682845-1662672045
@@ -570,25 +533,8 @@ http://stream.amrbd.com:8082/MyTV/tracks-v1a1/mono.m3u8?token=f3a19abb9f07df2f9a
 #EXTINF:-1 group-title="Bangladesh", ANNODO TV
 http://stream.amrbd.com:8082/anandotv/tracks-v1a1/mono.m3u8?token=2ff363c6c548364086455510176bc4d1d5c3fe49-aaf292e5947009ebc41c4d53f0d5de6d-1662685494-1662674694
 
-
-
-#EXTINF:-1 group-title="Bangladesh" ,BTV
-
-
-#EXTINF:-1 group-title="Bangladesh" ,NTV S1
-
-
 #EXTINF:-1 group-title="Bangladesh" ,NTV UK
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
-
-#EXTINF:-1 group-title="Bangladesh" ,NTV S
-
-
-#EXTINF:-1 group-title="Bangladesh" ,NTV S
-
-
-#EXTINF:-1 group-title="Bangladesh",BTV s1
-
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="Bangladesh", ATN Music Ch-2
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
@@ -598,9 +544,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF:-1 group-title="Bangladesh", Asian Tv BD
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Bangladesh", Asian Tv BD S2
-
 
 #EXTINF:-1 group-title="Bangladesh", Anondro Tv BD
 http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
@@ -618,7 +561,33 @@ http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.
 http://103.179.246.243:8000/play/a01
 
 #EXTINF:-1 group-title="CARTOON", NICK HD
-http://103.179.246.243:8000/play/a01
+http://50.7.237.4:8080/NICKELODEON/index.m3u8
+
+#EXTINF:-1 group-title="CARTOON", NICK HD (PULTO TV)
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+
+#EXTINF:-1 group-title="CARTOON",Tortues Ninja [Pluto]
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+
+#EXTINF:-1 group-title="CARTOON",POGO TV
+http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 group-title="CARTOON",
+
+
+
+#EXTINF:-1 group-title="CARTOON",
+
+
+#EXTINF:-1 group-title="CARTOON",
+
+
+
+#EXTINF:-1 group-title="CARTOON",
+
+
+#EXTINF:-1 group-title="CARTOON", Dora TV
+https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
 
 #EXTINF:-1 group-title="CARTOON",  Disney Junior
 http://103.179.246.243:8000/play/a020
@@ -704,7 +673,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 
-
 #SPORTS   #SPORTS   #SPORTS   #SPORTS   #SPORTS   #SPORTS
 
 #EXTINF:-1 group-title="SPORTS", G TV S1
@@ -780,9 +748,6 @@ http://103.162.136.235:4500/play/a00v/index.m3u8
 http://103.162.136.235:4500/play/a00w/index.m3u8
 
 
-
-
-
 #Music  #Music  #Music   #Music   #Music  #Music
 
 EXTINF:-1 group-title="MUSIC", MTV BEATES HD
@@ -822,15 +787,8 @@ http://172.50.50.66:8080/45/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MUSIC", T- Series Music S2
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 
-
-
-
-http://streams.sarkernet.com:8081/sports/71ekattoortv.m3u8
-
-
-
-
-
+#EXTINF:-1 group-title="MUSIC", T- Series Music S3
+https://live.hungama.com/linear/dil-se/playlist_playlist_1080p.m3u8
 
 
 
