@@ -26,13 +26,6 @@ http://stream.amrbd.com:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=466032a7967e26
 
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="INDIAN BANGLA", ZEE BANGLA
 http://50.7.237.4:8080/ZEEBANGLAHD/index.m3u8
 
@@ -126,11 +119,8 @@ http://103.99.249.107:81/play/a02w
 #EXTINF:-1 group-title="INDIAN BANGLA", JALSHA MOVIES HD S4
 http://208.86.19.13:81/716.stream/index.m3u8
 
-#EXTINF:-1 group-title="INDIAN BANGLA", JALSHA MOVIES HD S5
+#EXTINF:-1 group-title="INDIAN BANGLA",
 
-
-#EXTINF:-1 group-title="INDIAN BANGLA",sampal
-https://mdisk.me/convertor/640x267/jHupeJ
 
 #EXTINF:-1 group-title="INDIAN BANGLA",
 
@@ -142,14 +132,10 @@ http://15.1.5.14:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=e3176f2f2181deb2e0a4e
 #EXTINF:-1 group-title="BCIPTV",STAR JALSHA HD S1
 
 
-
-#EXTINF:-1 group-title="BCIPTV",STAR JALSHA HD S2
-
+#EXTINF:-1 group-title="BCIPTV",
 
 
-#EXTINF:-1 group-title="BCIPTV",STAR JALSHA HD S3
-
-
+#EXTINF:-1 group-title="BCIPTV",
 
 
 #EXTINF:-1 group-title="BCIPTV",ZEE BANGLA
@@ -395,23 +381,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BCIPTV", 
 
-#EXTINF:-1 group-title="Bangladesh" ,BTV (SPORT)
-http://103.106.2.152:13456/btv.m3u8
 
-#EXTINF:-1 group-title="Bangladesh" ,NTV S1
-http://208.86.19.13:81/652.stream/index.m3u8
-
-#EXTINF:-1 group-title="Bangladesh" ,NTV UK
-https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
-
-#EXTINF:-1 group-title="Bangladesh" ,NTV S
-
-
-#EXTINF:-1 group-title="Bangladesh" ,NTV S
-
-
-#EXTINF:-1 group-title="Bangladesh",BTV s1
-http://208.86.19.13:81/710.stream/index.m3u8
 
 #EXTINF:-1 group-title="HINDI",SONY MAX HD
 http://50.7.237.4:8080/SONYMAXHD/tracks-v1a1/index.m3u8
@@ -468,12 +438,6 @@ http://208.86.19.13:81/702.stream/index.m3u8
 
 
 
-
-
-
-
-
-
 #EXTINF:-1 group-title="HINDI", sony tv
 http://stream.amrbd.com:8082/SonyTVHD/tracks-v1a1/mono.m3u8?token=ed414edf363936c0a90746abeab72afd48f48f93-d82efc8dd80456be1cb02c9f81e4a3a8-1662839838-1662829038
 
@@ -494,81 +458,91 @@ http://223.29.212.14:8080/roarzone/77/tracks-v1a1/mono.m3u8
 
 #BANGLADESH
 
-#EXTINF:-1, "MIXED02" G TV BD
+#EXTINF:-1 group-title="Bangladesh", G TV BD
 http://stream.amrbd.com:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=e40f3e9dacc7a834e00fc4584f1f565df75b8663-da935ad091987ef8a37661c6730ea9a6-1662682845-1662672045
 
-#EXTINF:-1,DBC NAMGLA
+#EXTINF:-1 group-title="Bangladesh", DBC NAMGLA
 http://stream.amrbd.com:8082/DBC-NEWS/tracks-v1a1/mono.m3u8?token=9c453616e15a32a4e4807281bf47608e89934811-18ff267b13b501403771f7b79190bcae-1662682876-1662672076
 
-#EXTINF:-1,EKKATOR BANGLA
+#EXTINF:-1 group-title="Bangladesh", EKKATOR BANGLA
 http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=c2fc5c1e10fe56ca7e82a3e319d4da6a2049ba17-087020142d6bc197b9b5652cee0bf0ca-1662682914-1662672114
 
-#EXTINF:-1,IP TV BANGLA
+#EXTINF:-1 group-title="Bangladesh", IP TV BANGLA
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
 
-#EXTINF:-1,JORMOBHUMI TV
+#EXTINF:-1 group-title="Bangladesh", JORMOBHUMI TV
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/jonmobhumitv.stream/chunks.m3u8
 
-#EXTINF:-1,DOYEL TV
+#EXTINF:-1 group-title="Bangladesh", DOYEL TV
 http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8
 
-
-
-#EXTINF:-1,ATN NEWS BD
+#EXTINF:-1 group-title="Bangladesh", ATN NEWS BD
 http://stream.amrbd.com:8082/Atn-News/tracks-v1a1/mono.m3u8?token=d1f4e219dd3362aa6e8af8da13466db7f6172be4-32b455ff14f274f6f7d9f240a5edfc2a-1662684480-1662673680
 
-#EXTINF:-1,SOMOY TV BD
+#EXTINF:-1 group-title="Bangladesh", SOMOY TV BD
 http://stream.amrbd.com:8082/Somoy-TV/tracks-v1a1/mono.m3u8?token=2fd3dbfbb3a23d8002ef55dc5c4ba232869315e4-d1a9ea2d697d4bff492ade250315fbe3-1662684824-1662674024
-#EXTINF:-1,NEWS 24 BD
+
+#EXTINF:-1 group-title="Bangladesh", NEWS 24 BD
 http://stream.amrbd.com:8082/News24bd/tracks-v1a1/mono.m3u8?token=8f2d432dce4b7a931d1d9129347db14f52b049fe-048eb0bc5baba6b158dcc6bfeea6b125-1662685011-1662674211
 
-#EXTINF:-1,CHANNEL 24 HD
+#EXTINF:-1 group-title="Bangladesh", CHANNEL 24 HD
 http://stream.amrbd.com:8082/Channel24/tracks-v1a1/mono.m3u8?token=4b6c21a311842f71f92ba79f1f277fe17bb4f6d6-62f23352157a8847da501e1f4dfc4d54-1662685057-1662674257
 
-#EXTINF:-1,ATN BANGLA BD
+#EXTINF:-1 group-title="Bangladesh", ATN BANGLA BD
 http://stream.amrbd.com:8082/ATN-Bangla/tracks-v1a1/mono.m3u8?token=d8a7e01d47b08b63eb80deb11e14fb7b5f27d444-5b8a1f5aaf12af327dc994972821c96f-1662685104-1662674304
 
-#EXTINF:-1,CHANNEL HD BD
+#EXTINF:-1 group-title="Bangladesh", CHANNEL HD BD
 http://stream.amrbd.com:8082/Channel-i/tracks-v1a1/mono.m3u8?token=193c61e4dbe32b11ee92dfbaa2d4c74aa6bccbe0-8ca5c1df6c68bd6379e12235811a1cf6-1662685147-1662674347
 
-#EXTINF:-1,ETV BANGLA BD
+#EXTINF:-1 group-title="Bangladesh", ETV BANGLA BD
 http://stream.amrbd.com:8082/Ekushey-TV/tracks-v1a1/mono.m3u8?token=a445ef673ae476d967dcd260f9d0f7a8627b21f9-7fa4383c7a4e8492d9d0f7d2f0430de6-1662685176-1662674376
 
-#EXTINF:-1,NTV BD
+#EXTINF:-1 group-title="Bangladesh", NTV BD
 http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8?token=52ddbf4a631ad36a647b297b12705dc31a5b56ce-cd491432372657d8719ee807c63d3b19-1662685208-1662674408
 
-#EXTINF:-1,R TV BD
+#EXTINF:-1 group-title="Bangladesh", R TV BD
 http://stream.amrbd.com:8082/RTV/tracks-v1a1/mono.m3u8?token=ea25347cde4d2b2b2cc504b7522bb83b0b3a8a0b-6ddceb9ea2c0017a57f2e7b0faa7e94e-1662685268-1662674468
 
-#EXTINF:-1,SA TV BD
+#EXTINF:-1 group-title="Bangladesh", SA TV BD
 http://stream.amrbd.com:8082/SATV/tracks-v1a1/mono.m3u8?token=d8cb085119e3a488ffb4b52001a511d61f83c896-0de1e2a21f4e6d602341c79265aa096b-1662685296-1662674496
 
-#EXTINF:-1,BANGLA VISION BD
+#EXTINF:-1 group-title="Bangladesh", BANGLA VISION BD
 http://stream.amrbd.com:8082/BanglaVision/tracks-v1a1/mono.m3u8?token=03f0d310d520a02b94bff03ac8f709e93e834434-322ba502efd6f655bf7e9c7a5cb0355f-1662685332-1662674532
 
-#EXTINF:-1,BOISHAKHI BD
+#EXTINF:-1 group-title="Bangladesh", BOISHAKHI BD
 http://stream.amrbd.com:8082/Boishakhi/tracks-v1a1/mono.m3u8?token=7e432d80bb12aa7ac6c09f60bb7cf6d8bdd1600d-5be82b102f862537c1811cdd6e547133-1662685350-1662674550
 
-#EXTINF:-1,GAAN BANGLA MUSIC
+#EXTINF:-1 group-title="Bangladesh", GAAN BANGLA MUSIC
 http://stream.amrbd.com:8082/GaanBangla/tracks-v1a1/mono.m3u8?token=0707696832adb8fc0c2996c65c12b467a97967f3-91b3cd99ec0fa51d91a4a12f3915d615-1662685420-1662674620
 
-#EXTINF:-1,MOHONA TV BD
+#EXTINF:-1 group-title="Bangladesh", MOHONA TV BD
 http://stream.amrbd.com:8082/MohonaTV/tracks-v1a1/mono.m3u8?token=55e82c19517a8138e06e8d136939cd317d23bcde-59cd2e64513f26adc9246a2aac8aebf5-1662685451-1662674651
 
-#EXTINF:-1,MY TV BD
+#EXTINF:-1 group-title="Bangladesh", MY TV BD
 http://stream.amrbd.com:8082/MyTV/tracks-v1a1/mono.m3u8?token=f3a19abb9f07df2f9a04e390fc08a1d98b0f897b-6bd3f8352f39e844807a17e9e7ef1189-1662685471-1662674671
 
-#EXTINF:-1,ANNODO TV
+#EXTINF:-1 group-title="Bangladesh", ANNODO TV
 http://stream.amrbd.com:8082/anandotv/tracks-v1a1/mono.m3u8?token=2ff363c6c548364086455510176bc4d1d5c3fe49-aaf292e5947009ebc41c4d53f0d5de6d-1662685494-1662674694
 
-#EXTINF:-1,KHILLIDI 2022
-https://drive.google.com/u/0/uc?id=1rRhgwQYYwp1PDHhgRveEsaxiAfyiuocC&export=download
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+
+
+#EXTINF:-1 group-title="Bangladesh" ,BTV
+
+
+#EXTINF:-1 group-title="Bangladesh" ,NTV S1
+
+
+#EXTINF:-1 group-title="Bangladesh" ,NTV UK
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" ,NTV S
+
+
+#EXTINF:-1 group-title="Bangladesh" ,NTV S
+
+
+#EXTINF:-1 group-title="Bangladesh",BTV s1
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="Bangladesh", ATN Music Ch-2
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
@@ -577,7 +551,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangladesh", ATN Bangla Ch-2
-http://10.16.100.203:8082/bangla/aTnb@ngla.m3u8
+
 
 #EXTINF:-1 group-title="Bangladesh", 
 
@@ -593,7 +567,7 @@ http://10.16.100.203:8082/bangla/aTnb@ngla.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangladesh", Asian Tv BD S2
-https://cdn.appv.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8?nimblesessionid=3675882&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNzozMzo0NyBQTSZoYXNoX3ZhbHVlPWpabkQwc1VKakF4V1J5N2RZUythRXc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
 
 #EXTINF:-1 group-title="Bangladesh", Anondro Tv BD
 http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
@@ -602,12 +576,13 @@ http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangladesh", Somoy TV S2 
-http://172.50.50.66:8080/39/tracks-v1a1/mono.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangladesh", Somoy TV S3
-https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8?nimblesessionid=1308939702
+
+
 #EXTINF:-1 group-title="Bangladesh", Somoy Tv S4
-http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+
 
 #EXTINF:-1 group-title="CARTOON", Cartoon Network
 http://103.179.246.243:8000/play/a01
