@@ -263,31 +263,134 @@ http://172.16.50.2:8082/Channel-i/tracks-v1a1/mono.m3u8?token=5413080c43aa07c331
 http://stream.amrbd.com:8082/Channel-i/tracks-v1a1/mono.m3u8?token=89f2c855beab17c9ae2620494a9dd8136cbd6ae7-5d9bff5bec0deffa23735a5a00ec146d-1665518746-1665507946
 
 
-#EXTINF:-1 group-title="BCIPTV", 
+#EXTINF:-1 group-title="BCIPTV", Bangla Talikies
+http://15.1.5.10:8082/BANGLA-TALKIES/tracks-v1a1/mono.m3u8?token=3f8c718ebd52fbc3fc5afd29dd53d74079600003-2b4a7253287193bd76dce429326f5d37-1665952490-1665941690
 
+#EXTINF:-1 group-title="BCIPTV", Sangeet Bangla
+http://15.1.5.10:8082/sangeet-bangla/tracks-v1a1/mono.m3u8?token=6d2090f8ffab08b0dfbfc69a420794a5ff71db16-1723a7bd7dd8db26feb51ec9b82de024-1665952645-1665941845
 
+#EXTINF:-1 group-title="BCIPTV", ATN Bangla Music
+http://15.1.5.14:8082/ATN-MUSIC/tracks-v1a1/mono.m3u8?token=6474141a4a6ea622383a4fc2cf7cc87f22305cd0-3efdb45dc160842236f7e33a062c64af-1665952742-1665941942
 
-#EXTINF:-1 group-title="BCIPTV", 
+#EXTINF:-1 group-title="BCIPTV", Bindass Music
+http://15.1.5.10:8082/bindass/tracks-v1a1/mono.m3u8?token=08a71d066acd626a4d0f8a35dd526a07741b440b-ecb8c7afb004558d879de4cb7302775b-1665953042-1665942242
 
+#EXTINF:-1 group-title="BCIPTV", 9XM Music
+http://15.1.5.14:8082/9XM/tracks-v1a1/mono.m3u8?token=d0674eb62a5565d61167acbcc9e37aa1212605c6-9cf871a8e3c52b47dc52669d422c3efe-1665953137-1665942337
 
-
-#EXTINF:-1 group-title="BCIPTV", 
-
-
-#EXTINF:-1 group-title="BCIPTV", 
-
-
-
-#EXTINF:-1 group-title="BCIPTV", 
-
-
-
+#EXTINF:-1 group-title="BCIPTV", Jalsha Movies HD
+http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8?token=4ec285a1a050e7e5220a1f333590f57f502abe80-3deb695912a26c31f2423ab81e53de1f-1665953289-1665942489
 
 #EXTINF:-1 group-title="BCIPTV", 
 
 
+#EXTINF:-1 group-title="BCIPTV",
 
-#EXTINF:-1 group-title="BCIPTV", 
+
+#EXTINF:-1 group-title="BCIPTV",
+
+
+
+#EXTINF:-1 group-title="BCIPTV",
+
+
+#EXTINF:-1 group-title="BCIPTV",
+
+
+#EXTINF:-1 group-title="BCIPTV",
+
+
+#EXTINF:-1 group-title="BCIPTV",
+
+
+
+#EXTINF:-1 group-title="BCIPTV",
+
+
+
+#EXTINF:-1 group-title="BCIPTV",
+
+
+#EXTINF:-1 group-title="BCIPTV",
+
+
+
+#EXTINF:-1 group-title="BCIPTV",
+
+
+
+#EXTINF:-1 group-title="BCIPTV",
+
+
+
+#EXTINF:-1 group-title="BCIPTV",
+
+
+
+
+#EXTINF:-1 group-title="BCIPTV",
+
+
+
+#EXTINF:-1 group-title="BCIPTV",
+
+
+
+#EXTINF:-1 group-title="BCIPTV",
+
+
+
+#EXTINF:-1 group-title="BCIPTV",
+
+
+
+#EXTINF:-1 group-title="BCIPTV",
+
+
+
+
+#EXTINF:-1 group-title="BCIPTV",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
