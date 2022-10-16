@@ -1,123 +1,80 @@
 #EXTM3U
+#INDIAN BANGLA   #INDIAN BANGLA#    INDIAN BANGLA#   INDIAN BANGLA
 
-
-#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA HD (jio)
+#EXTINF:-1 group-title="INDIAN BANGLA", 1.STAR JALSHA HD (jio)-HQ
 https://nayeem-ban.chadasaniya.ml/STARJALSAIND-Bang/index.m3u8?token=test
 
-#EXTINF:-1 group-title="INDIAN BANGLA", COLORS BANGLA (jio)
+#EXTINF:-1 group-title="INDIAN BANGLA", 2.COLORS BANGLA (jio)-HQ
 http://nayeem-ban.chadasaniya.ml/COLORSBANGLAIND-Bang/index.m3u8?token=test
 
-#EXTINF:-1 group-title="INDIAN BANGLA", SONY AATH S1
+#EXTINF:-1 group-title="INDIAN BANGLA", 3.SONY AATH S1
 http://50.7.237.4:8080/SONYAATH/index.m3u8
 
-#EXTINF:-1 group-title="INDIAN BANGLA", SONY AATH S2
-http://50.7.237.4:8080/SONYAATH/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN BANGLA", SONY AATH S3
+#EXTINF:-1 group-title="INDIAN BANGLA", 4.SONY AATH S3
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
-#EXTINF:-1 group-title="INDIAN BANGLA", SONY AATH S4
-http://50.7.237.4:8080/SONYAATH/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN BANGLA", SONY AATH S5
+#EXTINF:-1 group-title="INDIAN BANGLA", 5.SONY AATH S5
 http://stream.amrbd.com:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=466032a7967e26133836f13930ecb9817a012605-09d85b169c3593ed3b5b240731f868df-1665425330-1665414530
 
-#EXTINF:-1 group-title="INDIAN BANGLA", SONY AATH S6
-
-
-
-#EXTINF:-1 group-title="INDIAN BANGLA", ZEE BANGLA
-http://50.7.237.4:8080/ZEEBANGLAHD/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALASHA S1
-http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=6cfb9278fc60e2aab053954db5c10b495b333b61-bc704beca05c33f1daa2638c5d7c9ad6-1662680775-1662669975
-
-#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALASHA S2
-http://172.50.50.8:8080/hls/channel12.m3u8
-
-#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALASHA S3
-http://103.16.24.54:8080/channel5/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALASHA S4 (3RD PARTY)
-http://50.7.237.4:8080/STARJALSHA/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA S5
-http://50.7.237.4:8080/STARJALSHA/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA S7
-http://103.16.24.54:8080/channel5/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA S8
-http://50.7.237.4:8080/STARJALSHA/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA S9 (BDIPTV)
-http://bdiptv.net:8282/jalsha/tracks-v1a1/mono.m3u8?token=382a4b19fb866875abaa58fb476eb4e95caaf877-a40b8b3443994e8f292b0d52440caf16-1665433354-1665422554
-
-#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA S10 (BDIPTV)
-http://bdiptv.net:8282/jalsha/tracks-v1a1/mono.m3u8?token=843cd11b2ef8a101a43b13594981bbcabaca9d37-be94c6646796742c8b8d381c1e665e80-1665433217-1665422417
-
-#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA S11 (BCIPTV)
-http://15.1.5.14:8082/jalsha/tracks-v1a1/mono.m3u8?token=ef74b7f460004c75b210abf27d9e61a2f74fef22-039998b2b726963ab71f60592f3cfd06-1665433532-1665422732
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="INDIAN BANGLA",ZEE BANGLA (HQ)
-http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=8647fa1bfd0c582b6ac71bf1bd70c4289c845ea3-ecdbeb77a94546993b37774d81c1b0b5-1662680906-1662670106
-
-#EXTINF:-1 group-title="INDIAN BANGLA",ZEE BANGAL S1
-http://172.50.50.8:8080/hls/channel10.m3u8
-
-#EXTINF:-1 group-title="INDIAN BANGLA",ZEE BANGAL S1
-http://103.16.24.54:8080/channel4/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN BANGLA",ZEE BANGAL S3
-http://50.7.237.4:8080/ZEEBANGLAHD/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN BANGLA",ZEE BANGAL S4
-http://103.16.24.54:8080/channel4/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN BANGLA",ZEE BANGAL (HQ) S5
-http://103.147.87.13:8002/play/a048/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN BANGLA",ZEE BANGAL S6
-http://50.7.237.4:8080/ZEEBANGLAHD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN BANGLA",ZEE BANGAL S7
-http://50.7.237.4:8080/ZEEBANGLAHD/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN BANGLA", ZEE BANGLA (HQ)
-http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=a905461810c2c50ee58fc1f2644b740f11c7eedf-9ded6a978a8c1ac9b7b4e6afc9024333-1662838888-1662828088
-
-#EXTINF:-1 group-title="INDIAN BANGLA", COLORS BANGALA (HQ)
-http://stream.amrbd.com:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=d82417e840925703f63bb6904ca6066fcf0f75cf-b25ee74401210ac4443cd8ef632c1226-1662838743-1662827943
-
-#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA HD
-http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=b529d51dfe53b6cb3efebf5d0407ecc49f95fb20-6bbe97d67b7ee20c73a97407f61fa2e6-1662838821-1662828021
-
-#EXTINF:-1 group-title="INDIAN BANGLA", SONY AATH
+#EXTINF:-1 group-title="INDIAN BANGLA", 6.SONY AATH S6
 http://stream.amrbd.com:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=5a76ff0630616448958f7de764bbee3003fa5af1-daccf5942bfa04de9b1b47e9370d4cf5-1662838796-1662827996
 
-#EXTINF:-1 group-title="INDIAN BANGLA", ZEE BANGLA CINEMA
-http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=a7353c90a117f55de1671d68b2394561d7d25a41-da227dfd8fa212a3af8f7f3826bfe3c6-1662838766-1662827966
+#EXTINF:-1 group-title="INDIAN BANGLA", 7.STAR JALSHA HD
+http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=b529d51dfe53b6cb3efebf5d0407ecc49f95fb20-6bbe97d67b7ee20c73a97407f61fa2e6-1662838821-1662828021
 
-#EXTINF:-1 group-title="INDIAN BANGLA", ZEE BANGLA CINEMA S2
-http://103.99.249.107:81/play/a039
+#EXTINF:-1 group-title="INDIAN BANGLA", 8.STAR JALASHA S1 (BDXI)
+http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=6cfb9278fc60e2aab053954db5c10b495b333b61-bc704beca05c33f1daa2638c5d7c9ad6-1662680775-1662669975
 
-#EXTINF:-1 group-title="INDIAN BANGLA", JALSHA MOVIES HD
-http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=7480aadb444351c33a9318b6f7b454025f17f2cd-b927d06bcda120870e154f60fe1d716a-1662838949-1662828149
+#EXTINF:-1 group-title="INDIAN BANGLA", 9.STAR JALASHA S2
+http://172.50.50.8:8080/hls/channel12.m3u8
 
-#EXTINF:-1 group-title="INDIAN BANGLA", JALSHA MOVIES HD S2
+#EXTINF:-1 group-title="INDIAN BANGLA", 10.STAR JALASHA S4 (3RD PARTY)
+http://50.7.237.4:8080/STARJALSHA/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 11.STAR JALSHA HD S8-HQ
+http://50.7.237.4:8080/STARJALSHA/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 12.STAR JALSHA S9 (BDIPTV)
+http://bdiptv.net:8282/jalsha/tracks-v1a1/mono.m3u8?token=382a4b19fb866875abaa58fb476eb4e95caaf877-a40b8b3443994e8f292b0d52440caf16-1665433354-1665422554
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 13.STAR JALSHA S10 (BDIPTV)
+http://bdiptv.net:8282/jalsha/tracks-v1a1/mono.m3u8?token=843cd11b2ef8a101a43b13594981bbcabaca9d37-be94c6646796742c8b8d381c1e665e80-1665433217-1665422417
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 14.STAR JALSHA S11 (BCIPTV)
+http://15.1.5.14:8082/jalsha/tracks-v1a1/mono.m3u8?token=ef74b7f460004c75b210abf27d9e61a2f74fef22-039998b2b726963ab71f60592f3cfd06-1665433532-1665422732
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 15.STAR JALSHA HD S12 (test)
 http://nayeem-ban.chadasaniya.ml/STAR_JHALSA_MOVIES_Bang/index.m3u8?token=test
 
-#EXTINF:-1 group-title="INDIAN BANGLA", JALSHA MOVIES HD S3
-http://103.99.249.107:81/play/a02w
+#EXTINF:-1 group-title="INDIAN BANGLA", 16.ZEE BANGLA (HQ)
+http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=8647fa1bfd0c582b6ac71bf1bd70c4289c845ea3-ecdbeb77a94546993b37774d81c1b0b5-1662680906-1662670106
 
-#EXTINF:-1 group-title="INDIAN BANGLA", JALSHA MOVIES HD S4
-http://208.86.19.13:81/716.stream/index.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA", 17.ZEE BANGLA
+http://50.7.237.4:8080/ZEEBANGLAHD/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 18.ZEE BANGAL S01
+http://172.50.50.8:8080/hls/channel10.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA",19.ZEE BANGAL S3
+http://50.7.237.4:8080/ZEEBANGLAHD/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 20.ZEE BANGAL (HQ) S5
+http://103.147.87.13:8002/play/a048/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 21.ZEE BANGAL S6
+http://50.7.237.4:8080/ZEEBANGLAHD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 22.ZEE BANGLA (HQ)
+http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=a905461810c2c50ee58fc1f2644b740f11c7eedf-9ded6a978a8c1ac9b7b4e6afc9024333-1662838888-1662828088
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 23.COLORS BANGALA (HQ)
+http://stream.amrbd.com:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=d82417e840925703f63bb6904ca6066fcf0f75cf-b25ee74401210ac4443cd8ef632c1226-1662838743-1662827943
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 24.ZEE BANGLA CINEMA
+http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=a7353c90a117f55de1671d68b2394561d7d25a41-da227dfd8fa212a3af8f7f3826bfe3c6-1662838766-1662827966
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 25.JALSHA MOVIES HD
+http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=7480aadb444351c33a9318b6f7b454025f17f2cd-b927d06bcda120870e154f60fe1d716a-1662838949-1662828149
 
 #EXTINF:-1 group-title="INDIAN BANGLA",
 
@@ -328,26 +285,34 @@ http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 group-title="BCIPTV",
 
 
+
+#EXTINF:-1 group-title="BCIPTV",
+
+
+
+
+
+
 #EXTINF:-1 group-title="BCIPTV",Anando TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BCIPTV",ATN Bangla tv
+#EXTINF:-1 group-title="BCIPTV",ATN Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BCIPTV",Banglavision tv
+#EXTINF:-1 group-title="BCIPTV",Banglavision
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BCIPTV",Bangla TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BCIPTV",Boishakhi tv s2
+#EXTINF:-1 group-title="BCIPTV",Boishakhi
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8?token=soheliptv01826655778
 
 #EXTINF:-1 group-title="BCIPTV",BTV World
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BCIPTV",Channel I
-http://172.16.50.2:8082/Channel-i/tracks-v1a1/mono.m3u8?token=1d5d932a45f50bfc26f6f09555c425490857c4f8-3ac5afe05631cc2f152e7c69e15e061e-1665961621-1665950821
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BCIPTV",CHANNEL 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
@@ -359,7 +324,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 group-title="BCIPTV",JAMUNA TV
-http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BCIPTV",My TV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
@@ -376,10 +341,34 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="BCIPTV",Movie Bangla
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 
+#EXTINF:-1 group-title="BCIPTV",My Cinema
+https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="BCIPTV",NAN TV
+https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="BCIPTV",Voice TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="BCIPTV",GTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
+
 #EXTINF:-1 group-title="BCIPTV",ATN Bangla
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BCIPTV",9xm (MUSIC)
+#EXTINF:-1 group-title="BCIPTV",Zee Bangla HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
+
+#EXTINF:-1 group-title="BCIPTV",Discovery Bangla HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+
+#EXTINF:-1 group-title="BCIPTV",Star movies
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
+
+#EXTINF:-1 group-title="BCIPTV",HBO
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
+
+#EXTINF:-1 group-title="BCIPTV",9xm
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-1 group-title="BCIPTV",ITV IPTV [BD]
@@ -388,11 +377,14 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
 #EXTINF:-1 group-title="BCIPTV",NANDAN IPTV [BD]
 http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
 
-#EXTINF:-1 group-title="BCIPTV",Nandan tv s2
+#EXTINF:-1 group-title="BCIPTV",Nandan
 http://nandansyst.com/hls/nandan.m3u8
 
 #EXTINF:-1 group-title="BCIPTV",BOISHAKHI TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="BCIPTV",T SPORTS
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 
 #EXTINF:-1 group-title="BCIPTV",Boishakhi TV
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
@@ -412,7 +404,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 group-title="BCIPTV",Star Bharat
 http://208.86.19.13:81/721.stream/index.m3u8
 
-#EXTINF:-1 group-title="BCIPTV",National Geographic Wild (Abu Dubai)
+#EXTINF:-1 group-title="BCIPTV",National Geographic Wild
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="BCIPTV",Redbull TV
@@ -424,8 +416,14 @@ http://168.205.87.198:8555/live/adriana/123456/36.m3u8
 #EXTINF:-1 group-title="BCIPTV",Rush Channel
 https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="BCIPTV",Sangeet Bangla
+#EXTINF:-1 group-title="BCIPTV",Boomerang
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1,Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-1 group-title="BCIPTV",Astorlia news
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 
 #EXTINF:-1 group-title="BCIPTV",Rtv
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
