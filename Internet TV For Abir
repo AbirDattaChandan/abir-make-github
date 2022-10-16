@@ -328,34 +328,26 @@ http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 group-title="BCIPTV",
 
 
-
-#EXTINF:-1 group-title="BCIPTV",
-
-
-
-
-
-
 #EXTINF:-1 group-title="BCIPTV",Anando TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BCIPTV",ATN Bangla
+#EXTINF:-1 group-title="BCIPTV",ATN Bangla tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BCIPTV",Banglavision
+#EXTINF:-1 group-title="BCIPTV",Banglavision tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BCIPTV",Bangla TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BCIPTV",Boishakhi
+#EXTINF:-1 group-title="BCIPTV",Boishakhi tv s2
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8?token=soheliptv01826655778
 
 #EXTINF:-1 group-title="BCIPTV",BTV World
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BCIPTV",Channel I
-https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
+http://172.16.50.2:8082/Channel-i/tracks-v1a1/mono.m3u8?token=1d5d932a45f50bfc26f6f09555c425490857c4f8-3ac5afe05631cc2f152e7c69e15e061e-1665961621-1665950821
 
 #EXTINF:-1 group-title="BCIPTV",CHANNEL 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
@@ -367,7 +359,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 group-title="BCIPTV",JAMUNA TV
-https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BCIPTV",My TV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
@@ -384,34 +376,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="BCIPTV",Movie Bangla
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BCIPTV",My Cinema
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="BCIPTV",NAN TV
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="BCIPTV",Voice TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="BCIPTV",GTV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
-
 #EXTINF:-1 group-title="BCIPTV",ATN Bangla
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BCIPTV",Zee Bangla HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
-
-#EXTINF:-1 group-title="BCIPTV",Discovery Bangla HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
-
-#EXTINF:-1 group-title="BCIPTV",Star movies
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
-
-#EXTINF:-1 group-title="BCIPTV",HBO
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
-
-#EXTINF:-1 group-title="BCIPTV",9xm
+#EXTINF:-1 group-title="BCIPTV",9xm (MUSIC)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-1 group-title="BCIPTV",ITV IPTV [BD]
@@ -420,14 +388,11 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
 #EXTINF:-1 group-title="BCIPTV",NANDAN IPTV [BD]
 http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
 
-#EXTINF:-1 group-title="BCIPTV",Nandan
+#EXTINF:-1 group-title="BCIPTV",Nandan tv s2
 http://nandansyst.com/hls/nandan.m3u8
 
 #EXTINF:-1 group-title="BCIPTV",BOISHAKHI TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="BCIPTV",T SPORTS
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 
 #EXTINF:-1 group-title="BCIPTV",Boishakhi TV
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
@@ -447,7 +412,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 group-title="BCIPTV",Star Bharat
 http://208.86.19.13:81/721.stream/index.m3u8
 
-#EXTINF:-1 group-title="BCIPTV",National Geographic Wild
+#EXTINF:-1 group-title="BCIPTV",National Geographic Wild (Abu Dubai)
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="BCIPTV",Redbull TV
@@ -459,14 +424,8 @@ http://168.205.87.198:8555/live/adriana/123456/36.m3u8
 #EXTINF:-1 group-title="BCIPTV",Rush Channel
 https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="BCIPTV",Boomerang
-https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1,Sangeet Bangla
+#EXTINF:-1 group-title="BCIPTV",Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-
-#EXTINF:-1 group-title="BCIPTV",Astorlia news
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 
 #EXTINF:-1 group-title="BCIPTV",Rtv
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
@@ -659,9 +618,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.
 
 #EXTINF:-1 group-title="CARTOON", Cartoon Network
 http://103.179.246.243:8000/play/a01
-
-#EXTINF:-1 group-title="CARTOON", DURANTO TV
-http://89.187.185.89:3232/ban-duronto/index.m3u8
 
 #EXTINF:-1 group-title="CARTOON", NICK HD
 http://103.179.246.243:8000/play/a01
@@ -858,9 +814,6 @@ http://stream.amrbd.com:8082/Bindass/tracks-v1a1/mono.m3u8?token=f542b4a451e9c34
 
 #EXTINF:-1 group-title="MUSIC", 9XM (HQ)
 http://stream.amrbd.com:8082/9XM/tracks-v1a1/mono.m3u8?token=bb671ba0ddeac15da29f187a1358874fb89ac358-74bd0588b6400f78fc137dbc3dff6b90-1662838507-1662827707
-
-#EXTINF:-1 group-title="MUSIC", 9XM S2
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-1 group-title="MUSIC",9XM JALWA
 http://stream.amrbd.com:8082/9X-Jalwa/tracks-v1a1/mono.m3u8?token=95e9987fe00185c550a795682341590d5b68039c-371251f857f315af074bba5543fe17c2-1662838535-1662827735
