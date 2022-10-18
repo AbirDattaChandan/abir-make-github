@@ -741,8 +741,6 @@ http://175.41.46.16:8081/hls/4.m3u8
 #EXTINF:-1 group-title="SPORTS",TEN Sports HD S1
 http://stream.amrbd.com:8082/Ten-Sports/tracks-v1a1/mono.m3u8?token=9c375e1f223a707e2d700749d00861e568627cfc-ff2a46412640b6d48dfed5620f06bf8b-1666089451-1666078651
 
-#EXTINF:-1 group-title="SPORTS", P Sports S5
-http://10.16.100.211/sports/pakistantvPTV.m3u8
 
 #EXTINF:-1 group-title="SPORTS", SONY Six HD
 http://175.41.46.16:8081/hls/1.m3u8
@@ -752,18 +750,6 @@ http://175.41.46.16:8081/hls/3.m3u8
 
 #EXTINF:-1 group-title="SPORTS", Star sport 1 hd s8
 http://iptv.hplink.com.bd:8080/hls/sports.m3u8
-
-#EXTINF:-1 group-title="SPORTS", SONY TEN S2
-http://jupiter.bdcabletv.com/ten_2-enc/video.m3u8
-
-#EXTINF:-1 group-title="SPORTS", SONY sport 1 HD
-http://103.162.136.235:4500/play/a015/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS", SONY sport 1 hindi
-http://103.162.136.235:4500/play/a017/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS", SONY sport 2
-http://103.162.136.235:4500/play/a016/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS", STAR sport 1 HD
 http://stream.amrbd.com:8082/Star-Sports-1/tracks-v1a1/mono.m3u8?token=066b9ef5aff6a2524b02eff5690e76af68a1705c-f4f56454dbf918a8e9cd4450c2d0752d-1666089630-1666078830
