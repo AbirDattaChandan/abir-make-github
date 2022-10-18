@@ -76,6 +76,10 @@ http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=a7353c9
 #EXTINF:-1 group-title="INDIAN BANGLA", 25.JALSHA MOVIES HD
 http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=7480aadb444351c33a9318b6f7b454025f17f2cd-b927d06bcda120870e154f60fe1d716a-1662838949-1662828149
 
+#EXTINF:-1 group-title="INDIAN BANGLA", 26.JALSHA MOVIES HD S2
+http://stream.amrbd.com:8082/Deepto-Tv/tracks-v1a1/mono.m3u8?token=3aa95f5ef1f91338b7737e1dd00ec4dbd03249ed-98225e086abbe47c77a28462fc3e8927-1666089518-1666078718
+
+
 #EXTINF:-1 group-title="BCIPTV",SONY AATH
 http://15.1.5.14:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=e3176f2f2181deb2e0a4ee59d413948cb91b3bf9-e7527d3b45bfb43efe91a7a54285ef3d-1665433804-1665423004
 
@@ -542,6 +546,9 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/Anando-TV.jpg" group-title="Bangladesh", Ananda TV Ch-1
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
+#EXTINF:-1 group-title="Bangladesh", JAMUNA TV S5
+http://175.41.46.16:8081/hls/8.m3u8
+
 #EXTINF:-1 group-title="Bangladesh", Asian Tv BD
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 
@@ -572,9 +579,8 @@ https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 #EXTINF:-1 group-title="CARTOON",POGO TV
 http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 group-title="CARTOON",
-
-
+#EXTINF:-1 group-title="CARTOON",DEEPTO TV NEW
+http://175.41.46.16:8081/hls/6.m3u8
 
 #EXTINF:-1 group-title="CARTOON",
 
@@ -672,59 +678,80 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="Documentary",ch7
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="Documentary", Discover HD
+https://webudi.openhd.lol/ddy6/premium313/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentary",
+
+
+
+
+#EXTINF:-1 group-title="Documentary",
+
+
+
+#EXTINF:-1 group-title="Documentary",
+
+
+
+#EXTINF:-1 group-title="Documentary",
+
+
+
+
+#EXTINF:-1 group-title="Documentary",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #SPORTS   #SPORTS   #SPORTS   #SPORTS   #SPORTS   #SPORTS
 
-#EXTINF:-1 group-title="SPORTS", G TV S1
-http://10.16.100.211/sports/gazitv@.m3u8
+#EXTINF:-1 group-title="SPORTS", T SPORT HD
+http://stream.amrbd.com:8082/Local-Sports/tracks-v1a1/mono.m3u8?token=93b946fd4d69bf322b8b9faac5747f26e5ad5e7a-a19a1cedc620dcd49196a31dc2c093b4-1666087507-1666076707
 
-#EXTINF:-1 group-title="SPORTS", G TV S2
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-
-#EXTINF:-1 group-title="SPORTS", G TV S3
-http://10.16.100.209/sports/gazi@tv.m3u8
-
-#EXTINF:-1 group-title="SPORTS", G TV S4
-http://10.16.100.210/sports/gazitv@local.m3u8
-
-#EXTINF:-1 group-title="SPORTS", G TV S5
-http://10.16.100.245/hindi/gazitv@r1ptv.m3u8
-
-#EXTINF:-1 group-title="SPORTS", G TV S6
-http://10.16.100.203:8082/bangla/gtv_sports.m3u8
-
-#EXTINF:-1 group-title="SPORTS", G TV S7
-http://10.16.100.207:8088/sports/GazItv_hd.m3u8
-
-#EXTINF:-1 group-title="SPORTS", G TV S8
-http://stream.amrbd.com:8082/Local-Sports/tracks-v1a1/mono.m3u8?token=9efc9d6442d67a04e5564c0be82a116e823b7ccb-23387ca22a91b3afb03a8cbfc6f4a4a5-1662508272-1662497472
+#EXTINF:-1 group-title="SPORTS", T SPORT HD S2
+http://stream.amrbd.com:8082/T-Sports/tracks-v1a1/mono.m3u8?token=eed54c5972b1cb13cf48cc462edd7af0de0e643e-0bffe601ecdd2033696283f226854e17-1666087615-1666076815
 
 #EXTINF:-1 group-title="SPORTS", G TV S9
-http://stream.amrbd.com:8082/T-Sports/tracks-v1a1/mono.m3u8?token=9d4b4b0c30e90303d7a8475e59966d9152ce612b-1b418a9ab757df734eb681353e6f7577-1662508300-1662497500
+http://tvs.embedsite.xyz:1936/live/hdmi_ext_12/chunklist_w1363391925_tkd293emF0b2tlbmVuZHRpbWU9MTY2NjA4NTIwMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NjYwNzgyMDAmd293emF0b2tlbmhhc2g9SFV5eWFuODdkWE9QN25pSGlBX1lDT2FIZjN5bzRMT0l0aG10ajNmeERjYz0=.m3u8
 
 #EXTINF:-1 group-title="SPORTS", G TV S10
-http://stream.amrbd.com:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=b9ba0552bb8e43df3629786224b0fa802ddfe85b-659f679965f33994919639d6b366dcbf-1662508321-1662497521
+http://tvs.embedsite.xyz:1936/live/hdmi_ext_12/chunklist_w1776690994_tkd293emF0b2tlbmVuZHRpbWU9MTY2NjA4NTA4MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NjYwNzgwODAmd293emF0b2tlbmhhc2g9MmxRaHdta0FhYVdrQmlxcDEtNHlCNVVTajhZSGpON0VHbllRQnJjNjJIcz0=.m3u8
 
-#EXTINF:-1 group-title="SPORTS", P Sports S1
-http://10.16.100.210/sports/ptvsportsPAk.m3u8
+#EXTINF:-1 group-title="SPORTS", A Sports S1
+http://tvs.embedsite.xyz:1936/live/hdmi_ext_7/chunklist_w1791551823_tkd293emF0b2tlbmVuZHRpbWU9MTY2NjA4NTE0MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NjYwNzgxNDAmd293emF0b2tlbmhhc2g9SnlNUTYzYVRvZ2FPS0hweFI2WkJBR0pwd21YcDBNVDBuajJGV3FCdlUzMD0=.m3u8
 
 #EXTINF:-1 group-title="SPORTS", P Sports S2
 http://stream.amrbd.com:8082/PTV-Sports/tracks-v1a1/mono.m3u8?token=8d7efc95da8322641001532554220d232d450237-4d5d84631bb51085ea752775740ae24a-1662508537-1662497737
 
-#EXTINF:-1 group-title="SPORTS", P Sports S3
-http://10.16.100.209/sports/paktvsports.m3u8
+#EXTINF:-1 group-title="SPORTS", T Sports S3
+http://175.41.46.16:8081/hls/4.m3u8
 
-#EXTINF:-1 group-title="SPORTS", P Sports S4
-http://10.16.100.245/hindi/ptvSports_1ocal.m3u8
+#EXTINF:-1 group-title="SPORTS",TEN Sports HD S1
+http://stream.amrbd.com:8082/Ten-Sports/tracks-v1a1/mono.m3u8?token=9c375e1f223a707e2d700749d00861e568627cfc-ff2a46412640b6d48dfed5620f06bf8b-1666089451-1666078651
 
 #EXTINF:-1 group-title="SPORTS", P Sports S5
 http://10.16.100.211/sports/pakistantvPTV.m3u8
 
-#EXTINF:-1 group-title="SPORTS", SONY TEN Six HD
-http://jupiter.bdcabletv.com/SonySixHD/video.m3u8
+#EXTINF:-1 group-title="SPORTS", SONY Six HD
+http://175.41.46.16:8081/hls/1.m3u8
 
 #EXTINF:-1 group-title="SPORTS", SONY TEN 1 HD
-http://jupiter.bdcabletv.com/ten_1-enc/video.m3u8
+http://175.41.46.16:8081/hls/3.m3u8
+
+#EXTINF:-1 group-title="SPORTS", Star sport 1 hd s8
+http://iptv.hplink.com.bd:8080/hls/sports.m3u8
 
 #EXTINF:-1 group-title="SPORTS", SONY TEN S2
 http://jupiter.bdcabletv.com/ten_2-enc/video.m3u8
@@ -738,14 +765,28 @@ http://103.162.136.235:4500/play/a017/index.m3u8
 #EXTINF:-1 group-title="SPORTS", SONY sport 2
 http://103.162.136.235:4500/play/a016/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS", SONY sport 1
-http://103.162.136.235:4500/play/a013/index.m3u8
+#EXTINF:-1 group-title="SPORTS", STAR sport 1 HD
+http://stream.amrbd.com:8082/Star-Sports-1/tracks-v1a1/mono.m3u8?token=066b9ef5aff6a2524b02eff5690e76af68a1705c-f4f56454dbf918a8e9cd4450c2d0752d-1666089630-1666078830
 
-#EXTINF:-1 group-title="SPORTS", SONY sport selected 1
-http://103.162.136.235:4500/play/a00v/index.m3u8
+#EXTINF:-1 group-title="SPORTS", STAR sport 2 HD
+http://stream.amrbd.com:8082/Star-Sports-2/tracks-v1a1/mono.m3u8?token=63e74bd11b295ce22d9b59f6cf377029a94be332-880bd74100ef510773c7515e6acff21b-1666089727-1666078927
 
-#EXTINF:-1 group-title="SPORTS", SONY sport selected 1
-http://103.162.136.235:4500/play/a00w/index.m3u8
+#EXTINF:-1 group-title="SPORTS", SONY TEN 3 HD
+http://stream.amrbd.com:8082/Ten3/tracks-v1a1/mono.m3u8?token=dce66dc20cbcbdd3d4b552e66107faaf27495169-a812349b5b7ce415358c2be8cc351d17-1666089765-1666078965
+
+#EXTINF:-1 group-title="SPORTS", SONY sport selected 1 HD
+http://stream.amrbd.com:8082/Star-Select-1/tracks-v1a1/mono.m3u8?token=7491a489432bb2fdeb966ddcfe9bb441c80b5542-bd27a5a3fd4860262dc34f1de6c54cd4-1666089819-1666079019
+
+#EXTINF:-1 group-title="SPORTS", SONY sport selected 2 HD
+http://stream.amrbd.com:8082/Star-Select-2/tracks-v1a1/mono.m3u8?token=807feb83dfbdf4f772bdd92988516d97c7303042-2f2e05ba51ca4dcebc6508eaf9e5d342-1666089845-1666079045
+
+#EXTINF:-1 group-title="SPORTS", T SPORTS HD S6
+http://stream.amrbd.com:8082/Local-Sports/tracks-v1a1/mono.m3u8?token=b5bc2d5ed887b94e512982e00b21b615624d1e28-0692b7e8881892844ae7e9bc27e8863d-1666089888-1666079088
+
+
+
+
+
 
 
 #Music  #Music  #Music   #Music   #Music  #Music
@@ -790,9 +831,30 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC", T- Series Music S3
 https://live.hungama.com/linear/dil-se/playlist_playlist_1080p.m3u8
 
+#EXTINF:-1 group-title="MUSIC", DIL SE MUSIC
+https://live.hungama.com/linear/dil-se/playlist_playlist_240p.m3u8
+
+#EXTINF:-1 group-title="MUSIC", Zoom tv Music
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/cdc1133c-ce86-4aff-94bc-3f8152e3ea98/0.m3u8
+
+#EXTINF:-1 group-title="MUSIC", 9x jalwa
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=352400.m3u8
+
+#EXTINF:-1 group-title="MUSIC",
+
+
+#EXTINF:-1 group-title="MUSIC",
 
 
 
+#EXTINF:-1 group-title="MUSIC",
 
+
+
+#EXTINF:-1 group-title="MUSIC",
+
+
+
+#EXTINF:-1 group-title="MUSIC",
 
 
