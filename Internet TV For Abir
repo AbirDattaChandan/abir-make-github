@@ -79,6 +79,10 @@ http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=7480aadb444
 #EXTINF:-1 group-title="INDIAN BANGLA", 26.JALSHA MOVIES HD S2
 http://stream.amrbd.com:8082/Deepto-Tv/tracks-v1a1/mono.m3u8?token=3aa95f5ef1f91338b7737e1dd00ec4dbd03249ed-98225e086abbe47c77a28462fc3e8927-1666089518-1666078718
 
+#EXTINF:-1 group-title="INDIAN BANGLA", 27.zee bangla chinema
+http://208.86.19.13:81/708.stream/index.m3u8
+
+
 
 #EXTINF:-1 group-title="BCIPTV",SONY AATH
 http://15.1.5.14:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=e3176f2f2181deb2e0a4ee59d413948cb91b3bf9-e7527d3b45bfb43efe91a7a54285ef3d-1665433804-1665423004
@@ -407,10 +411,86 @@ https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 http://50.7.237.4:8080/SONYMAXHD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="HINDI",SONY MAX
-http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
+http://221.120.204.3/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="HINDI",SONY MAX HD
 http://50.7.237.4:8080/SONYMAXHD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="HINDI", Zee Cinema 
+http://208.115.215.42/ZEE_CInema_HD/index.m3u8
+
+
+#EXTINF:-1 group-title="HINDI", zee action
+http://50.7.237.4:8080/ZEEACTION/index.m3u8
+
+#EXTINF:-1 group-title="HINDI",
+
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+
+#EXTINF:-1 group-title="HINDI",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="HINDI",SONY MAX HD (HQ)
 http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=8d8262bbded0165dcb9238b7fe37ab97574cf1a7-b7017e655a340cb91b67100987f9130c-1662827657-1662816857#EXTINF:-1,
@@ -681,10 +761,8 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 group-title="Documentary", Discover HD
 https://webudi.openhd.lol/ddy6/premium313/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Documentary",
-
-
-
+#EXTINF:-1 group-title="Documentary", net gro bangla hd
+http://221.120.204.3/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Documentary",
 
