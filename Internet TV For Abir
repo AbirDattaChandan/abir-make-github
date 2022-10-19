@@ -84,6 +84,8 @@ http://208.86.19.13:81/708.stream/index.m3u8
 
 
 
+"BCIPTV"        "BCIPTV"        "BCIPTV"          "BCIPTV"
+
 #EXTINF:-1 group-title="BCIPTV",SONY AATH
 http://15.1.5.14:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=e3176f2f2181deb2e0a4ee59d413948cb91b3bf9-e7527d3b45bfb43efe91a7a54285ef3d-1665433804-1665423004
 
@@ -107,8 +109,140 @@ http://bdiptv.net:8282/jalsha-movies/tracks-v1a1/mono.m3u8?token=29e0d0b15bd7dc5
 #EXTINF:-1 group-title="BCIPTV", T Sports HD
 http://172.16.50.2:8082/T-Sports/tracks-v1a1/mono.m3u8?token=e2ce6d983b855836faa370bfc6211fe04d42b6c2-3c74a32c4405cd2eb9dab2e2ab21f25a-1665516536-1665505736
 
-#EXTINF:-1 group-title="BCIPTV", REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="BCIPTV",STAR SPORTS 1 HD S4
+http://15.1.5.14:8082/en3-34/tracks-v1a1/mono.m3u8?token=2174ee844311b7ac13e867ffeecf6bdf713a1262-93eb41c0fc20249a93a442bafe5fff48-1666223408-1666212608
+
+#EXTINF:-1 group-title="BCIPTV",STAR SPORTS 2 HD
+http://15.1.5.14:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8?token=97f5ef378d3e59b1c54ffbcd71b32f309f09307c-9e841a8886a36e0aac6ab8df9c9ca6d0-1666223818-1666213018
+
+#EXTINF:-1 group-title="BCIPTV",STAR SPORTS SELECTED 1 HD
+http://15.1.5.10:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8?token=8ee0a8623d726251f48182ec42e863bf936a2037-4d2c7953b6feb825fa3d8a77e81796a4-1666223657-1666212857
+
+#EXTINF:-1 group-title="BCIPTV",STAR SPORTS SELECTED 2 HD
+http://15.1.5.10:8082/select2/tracks-v1a1/mono.m3u8?token=c6b43829f469c57cde953c937ecde7540973ea89-95bb66702dff8bcdc198d6d7e4a32b5d-1666223792-1666212992
+
+#EXTINF:-1 group-title="BCIPTV", P TV SPORTS HD S4
+http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8?token=438042730ea1faf86b10ec20e9bd269bde40d8ad-3a35970672e2910004e89ab25192a9a0-1666223567-1666212767
+
+#EXTINF:-1 group-title="BCIPTV",GTV S 8
+http://15.1.5.14:8082/GAZI-TV-HD/tracks-v1a1/mono.m3u8?token=4d64be5555324794382ffc16d688d6c93f74f33e-868dacbe8905080b0c56f5a10e87d73a-1666223629-1666212829
+
+#EXTINF:-1 group-title="BCIPTV",SONY TEN 1 HD S1
+http://15.1.5.14:8082/ten1-hd/tracks-v1a1/mono.m3u8?token=d3475748045e82e4fbc3b6c7a138e7fb4a12af89-c3091bb22ef11666427d76f7cd75d7aa-1666223905-1666213105
+
+#EXTINF:-1 group-title="BCIPTV",SONY TEN 2 HD S2
+http://15.1.5.10:8082/sony-ten2/tracks-v1a1/mono.m3u8?token=58a0c0bab795a7e10378713a57463629c7fbb429-ceab62fc7092a0cb45fe3d4377e182c7-1666223924-1666213124
+
+#EXTINF:-1 group-title="BCIPTV",SONY TEN SIX
+http://15.1.5.10:8082/sony-six-hd/tracks-v1a1/mono.m3u8?token=4fd5d6402a829dbf60359d63a0b267c0116ac70a-252da9ee05ec8bb2878090a2c754e38c-1666223944-1666213144
+
+#EXTINF:-1 group-title="BCIPTV",SONY TEN 3 HD
+http://15.1.5.14:8082/ten3/tracks-v1a1/mono.m3u8?token=a4d4295b279f8b1d439114e5f92e87f5dc00ba44-1384e59eac4e398543a64473213c80fa-1666223962-1666213162
+
+#EXTINF:-1 group-title="BCIPTV",SPORTS TV HD
+http://15.1.5.10:8082/tv13/tracks-v1a1/mono.m3u8?token=9188eb42089bd9f208a8224c83c455931b4eb13a-257802fcd0cd2447be71f80d21613255-1666223978-1666213178
+
+#EXTINF:-1 group-title="BCIPTV",NET GEO WILD HD
+http://15.1.5.14:8082/natgeo-wild/tracks-v1a1/mono.m3u8?token=194c5ea5f4cf210d912417d251f16f4d63e049ab-e7bfe257793b5541fa85cb3a62a47afd-1666224293-1666213493
+
+#EXTINF:-1 group-title="BCIPTV",NET GEO BANGLA HD
+http://15.1.5.14:8082/ngohd/tracks-v1a1/mono.m3u8?token=dac929a239c94173159c5fea07e04ea28aac2c28-1ab3a42aeadf8c31b5122c4594482178-1666224263-1666213463
+
+#EXTINF:-1 group-title="BCIPTV",SONY BBC EARTH
+http://15.1.5.10:8082/BBC-Earth/tracks-v1a1/mono.m3u8?token=214bea162d48e96c726881ee1a9c7fcdb8c92529-6c4482f7531403a4f7b4aa3ef488d3b8-1666224308-1666213508
+
+#EXTINF:-1 group-title="BCIPTV",TRAVEL XP HD
+http://15.1.5.14:8082/travel-xp/tracks-v1a1/mono.m3u8?token=896e79dd34d15ec945b313b1082c05055ed4a482-3f15871805f7e1d5c6fb8403622bec1a-1666224328-1666213528
+
+#EXTINF:-1 group-title="BCIPTV",ANIMEL PRANET HD
+
+
+#EXTINF:-1 group-title="BCIPTV",DISCOVERY SCIENCE HD
+http://15.1.5.14:8082/Discovery-Science/tracks-v1a1/mono.m3u8?token=53bfc3a36d78183af596b68258b40b5fa21be413-f1d4c99737f3b0088babc788b1cdbf9c-1666224387-1666213587
+
+#EXTINF:-1 group-title="BCIPTV",MXN TV ENGLISH
+http://15.1.5.14:8082/mnx-hd/tracks-v1a1/mono.m3u8?token=31deda8e617272a530010b8a8bcc08c275f07336-227e07193529fc0a3dac4a1b8046695b-1666224409-1666213609
+
+#EXTINF:-1 group-title="BCIPTV",SONY PIX HD
+http://15.1.5.10:8082/sony-pix-hd/tracks-v1a1/mono.m3u8?token=36e2a7ebfd2b89b424ff1a6e4fd81e9d8638cfe7-5034c3c9abd9f8660ea03791ad8af85d-1666224447-1666213647
+
+#EXTINF:-1 group-title="BCIPTV",BANGLA-TALKIES
+http://15.1.5.14:8082/BANGLA-TALKIES/tracks-v1a1/mono.m3u8?token=00e99157b7fe3f12cdfc95b3ef81c95d880c4f80-204fd2601fe11e71da0a99b28eacbc68-1666224503-1666213703
+
+#EXTINF:-1 group-title="BCIPTV",SANGEET BANGLA 
+http://15.1.5.10:8082/sangeet-bangla/tracks-v1a1/mono.m3u8?token=29f714a5624d5902ed90af1b5e86f4148e8399b4-208438f045612087a155d8cf35cabc5a-1666224554-1666213754
+
+#EXTINF:-1 group-title="BCIPTV",ATN BANGLA MUSIC
+
+
+#EXTINF:-1 group-title="BCIPTV", 9XM MUSIC
+http://15.1.5.10:8082/9XM/tracks-v1a1/mono.m3u8?token=17a7b25ea7dfda72e3874bb6149a253c92984777-2d14b10fee0d106b950b9bd99a90db17-1666224579-1666213779
+
+#EXTINF:-1 group-title="BCIPTV",MOVIES NOW HD
+http://15.1.5.14:8082/movies-now/tracks-v1a1/mono.m3u8?token=39a52d264f6015a87edfd6d627895877ac15073f-452122c5f96cd4a3ed8066cfad44f0e3-1666224899-1666214099
+
+#EXTINF:-1 group-title="BCIPTV",STAR MOVIES HD
+http://15.1.5.10:8082/star-movies-hd/tracks-v1a1/mono.m3u8?token=d63ba80a26a96786fae2be7c977f046723a15553-e5fa40bf0a795f65fb58360d35634b7c-1666224934-1666214134
+
+#EXTINF:-1 group-title="BCIPTV",SATR BHARAT HD
+http://15.1.5.10:8082/star-varot/tracks-v1a1/mono.m3u8?token=134d7aca9e61aff29685d59ac6521c88991115a1-6000a48f9a31dca8a03660d26f8592db-1666225172-1666214372
+
+#EXTINF:-1 group-title="BCIPTV",SATR PLUS HD
+http://15.1.5.14:8082/star-plus/tracks-v1a1/mono.m3u8?token=3f28a3b9904bb859fa4bf9e60d6342c11cf763fe-6e2f81dceb98aabcbc3187f27d1423d9-1666225484-1666214684
+
+#EXTINF:-1 group-title="BCIPTV",SATR GOLD 
+http://15.1.5.14:8082/star-gold/tracks-v1a1/mono.m3u8?token=fffaec006e9949066db5d006a1381bca9b025910-2c47572e225ecc3517ab50f757bab802-1666225205-1666214405
+
+#EXTINF:-1 group-title="BCIPTV", ZEE CHINEMA
+http://15.1.5.14:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=585d30752a925725c1d2d8683e8ac8377cc9eb45-3dfcf1200fce47aed9b6590d6e270a45-1666225390-1666214590
+
+#EXTINF:-1 group-title="BCIPTV", SONY MAX 2
+http://15.1.5.14:8082/sony-max2/tracks-v1a1/mono.m3u8?token=a9a195ccfc11b8cfbdfd76a39b89c233f9ad3f69-caba937968c6009c867ba2eeef391de4-1666225372-1666214572
+
+#EXTINF:-1 group-title="BCIPTV", SONY SAB HD
+http://15.1.5.14:8082/SONY-SUB/tracks-v1a1/mono.m3u8?token=f671d9e2da3fc1cf9dba314c39672bd5a6e63892-e71804871afaf8d28699ec14fad189d6-1666225463-1666214663
+
+#EXTINF:-1 group-title="BCIPTV",CLOERS CHINEPLEX HD
+http://15.1.5.10:8082/colorscineplex/tracks-v1a1/mono.m3u8?token=594b0507a465565b0611fd25a533f81b8669efed-082a937ac91d70d5b7fb0f254d632cec-1666225348-1666214548
+
+#EXTINF:-1 group-title="BCIPTV",SONY MAX HD
+http://15.1.5.10:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=692a13b4849121ccf9522bac80ecb2f84d390188-e148c6a4dcf31e25b2e8ef24b0e34d26-1666225412-1666214612
+
+#EXTINF:-1 group-title="BCIPTV",SONY HD
+http://15.1.5.10:8082/SonyTVHD/tracks-v1a1/mono.m3u8?token=d1a42460ac729ced0895d1612c68ce3084e51b10-25c0c6dbf569ace120e355159ab2d09f-1666225451-1666214651
+
+#EXTINF:-1 group-title="BCIPTV", B TV HD
+http://15.1.5.14:8082/btv/tracks-v1a1/mono.m3u8?token=3350e18c3bbebcf932e5968cedc193fd3e8de981-e0608d5e7a2b9543ef932142aadaec3b-1666225648-1666214848
+
+#EXTINF:-1 group-title="BCIPTV",STAR JALSH HD S4
+http://15.1.5.10:8082/jalsha/tracks-v1a1/mono.m3u8?token=45f8d74da2e937a3919af674ad5207032da6b27b-abb8807ef8277e80739ff9dcda15f947-1666225669-1666214869
+
+#EXTINF:-1 group-title="BCIPTV",ZEE BANGLA HD S4
+http://15.1.5.10:8082/zee-bangla/tracks-v1a1/mono.m3u8?token=1cf922344c28b0803070c19aa93fd63f4ececdcc-04cea234af83099fe79ead6c96ae9c6b-1666225717-1666214917
+
+#EXTINF:-1 group-title="BCIPTV",SONY AATH S4
+http://15.1.5.14:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=c63ae2a253ee0bdd50a7cfcb8e8b6de0c86b7f00-76cd6b8c190339c901128cebe4c7c511-1666225750-1666214950
+
+#EXTINF:-1 group-title="BCIPTV",SUN BANGLA
+http://15.1.5.10:8082/sunbangla/tracks-v1a1/mono.m3u8?token=3e9c1445a2ce4ada81845c85d303785ca831a3c4-cf24263ff5323af21fb6b3e6f9db974d-1666225778-1666214978
+
+#EXTINF:-1 group-title="BCIPTV",ZEE BANGLAR CHINEMA 
+http://15.1.5.14:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8?token=5c6fb98a082187275c78c89c1b1ad52d72c3a0be-6b34a4a340ec16bf24cefb0dedbae189-1666225794-1666214994
+
+#EXTINF:-1 group-title="BCIPTV",JALSHA MOVIES HD
+http://15.1.5.10:8082/jalsha-movies/tracks-v1a1/mono.m3u8?token=7051116a73a570c446e230f5f5d5297b44a256f0-55c8b18519cb0c8ad5498e7c1f4f3d6c-1666225820-1666215020
+
+#EXTINF:-1 group-title="BCIPTV",COLORS BANGLA HD
+http://15.1.5.14:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8?token=56810c93eda291a3e5a535760def46e5841f4d89-303eb25a4e8b9099d05a0db3da954799-1666225842-1666215042
+
+#EXTINF:-1 group-title="BCIPTV",DURONTO TV CARTOON
+http://15.1.5.10:8082/duronto-tv/tracks-v1a1/mono.m3u8?token=7b6918d01d2d4f4a409a38d62be667b0fcfd6b16-d541230774530473ecb0fe1f7af3e6fe-1666225867-1666215067
+
+#EXTINF:-1 group-title="BCIPTV",EKATTOR TV HD
+http://15.1.5.14:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=9fac904cdf1e39785e6b50c841a400c9a8291b1a-b2d1bfa4cf153c3487b39cceb96c9e3a-1666225907-1666215107
+
+#EXTINF:-1 group-title="BCIPTV",ATN BANGLA
+http://15.1.5.10:8082/ATN-Bangla/tracks-v1a1/mono.m3u8?token=a718666b1449481a28b1125d4cc6e5eaa86deec8-686cad52a3108ac5eaa0e123b03fa257-1666225966-1666215166
 
 #EXTINF:-1 group-title="BCIPTV",G TV HD
 http://172.16.50.2:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=577a75b7ca3a9a601d1861d95d123e687ec4f22c-54cfd3622642ef7e0fffc926d0343b6e-1665517134-1665506334
@@ -185,6 +319,8 @@ http://172.16.50.2:8082/Channel-i/tracks-v1a1/mono.m3u8?token=5413080c43aa07c331
 #EXTINF:-1 group-title="BCIPTV", CHANNEL I HD 2
 http://stream.amrbd.com:8082/Channel-i/tracks-v1a1/mono.m3u8?token=89f2c855beab17c9ae2620494a9dd8136cbd6ae7-5d9bff5bec0deffa23735a5a00ec146d-1665518746-1665507946
 
+#EXTINF:-1 group-title="BCIPTV", REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 group-title="BCIPTV", Bangla Talikies
 http://15.1.5.10:8082/BANGLA-TALKIES/tracks-v1a1/mono.m3u8?token=3f8c718ebd52fbc3fc5afd29dd53d74079600003-2b4a7253287193bd76dce429326f5d37-1665952490-1665941690
@@ -213,18 +349,17 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="BCIPTV",tvg-logo="https://i.imgur.com/TWuzjbg.png",MY TV [BD]
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BCIPTV",
+#EXTINF:-1 group-title="BCIPTV",NICK JR.
+http://15.1.5.14:8082/nick-jr/tracks-v1a1/mono.m3u8?token=956af70c52f2605b559956ef44e547e7588b4e46-e4bc1f2fc04434c31cd9d9ad62542e4e-1666224173-1666213373
 
+#EXTINF:-1 group-title="BCIPTV",GAAN BANGLA 
+http://15.1.5.10:8082/GaanBangla/tracks-v1a1/mono.m3u8?token=232af1cc7958f4ba4cb568813d3e945246bae819-0dfe90c14ca79e998875c035a25d2f0e-1666226017-1666215217
 
-#EXTINF:-1 group-title="BCIPTV",
+#EXTINF:-1 group-title="BCIPTV",N TV BANGLA
+http://15.1.5.14:8082/Ntv/tracks-v1a1/mono.m3u8?token=3d436ea98da47078c3d1750d11d6d067a391e9e6-4983517d39a22ce357ca678ae9d53302-1666226176-1666215376
 
-
-#EXTINF:-1 group-title="BCIPTV",
-
-
-#EXTINF:-1 group-title="BCIPTV",
-
-
+#EXTINF:-1 group-title="BCIPTV",CHANNEL 24 HD
+http://15.1.5.10:8082/Channel24/tracks-v1a1/mono.m3u8?token=0297b356d01d9fa8515158a1e02360113a1b6102-534fd7fef192c916f5e50a32f335b5c0-1666226216-1666215416
 
 #EXTINF:-1 group-title="BCIPTV",
 
@@ -662,12 +797,11 @@ http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="CARTOON",DEEPTO TV NEW
 http://175.41.46.16:8081/hls/6.m3u8
 
-#EXTINF:-1 group-title="CARTOON",
+#EXTINF:-1 group-title="CARTOON",SONY YAY HD
+http://15.1.5.10:8082/discovery-kid/tracks-v1a1/mono.m3u8?token=9b8f9258c6e3fcc0ad27bf38bb0eee84b5e849eb-b6de2935ecf9c53c0f16648135107f81-1666224044-1666213244
 
-
-#EXTINF:-1 group-title="CARTOON",
-
-
+#EXTINF:-1 group-title="CARTOON",NICK JR.
+http://15.1.5.14:8082/nick-jr/tracks-v1a1/mono.m3u8?token=956af70c52f2605b559956ef44e547e7588b4e46-e4bc1f2fc04434c31cd9d9ad62542e4e-1666224173-1666213373
 
 #EXTINF:-1 group-title="CARTOON",
 
@@ -904,16 +1038,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 group-title="MUSIC", 9x jalwa
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=352400.m3u8
 
-#EXTINF:-1 group-title="MUSIC",
+#EXTINF:-1 group-title="MUSIC",GAAN BANGLA
+http://15.1.5.10:8082/GaanBangla/tracks-v1a1/mono.m3u8?token=232af1cc7958f4ba4cb568813d3e945246bae819-0dfe90c14ca79e998875c035a25d2f0e-1666226017-1666215217
 
+#EXTINF:-1 group-title="MUSIC",MASTI MUSIC
+http://15.1.5.10:8082/Masti-Music/tracks-v1a1/mono.m3u8?token=1729a7fd1ccdb74d3dff522947801c8e91174184-2c1f2b0073ea260776be4c7cc94385a0-1666226106-1666215306
 
-#EXTINF:-1 group-title="MUSIC",
-
-
-
-#EXTINF:-1 group-title="MUSIC",
-
-
+#EXTINF:-1 group-title="MUSIC",9X JALWA 
+http://15.1.5.10:8082/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8?token=a414bfafdc013df026a6547f83eb0927d7b5e447-7e73171db42e91d0fc8f242ace508a04-1666226142-1666215342
 
 #EXTINF:-1 group-title="MUSIC",
 
