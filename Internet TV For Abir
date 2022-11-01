@@ -83,6 +83,48 @@ http://stream.amrbd.com:8082/Deepto-Tv/tracks-v1a1/mono.m3u8?token=3aa95f5ef1f91
 http://208.86.19.13:81/708.stream/index.m3u8
 
 
+#EXTINF:-1 group-title="ONLY STAR JALSHA",STAR JALSHA HD S1
+http://172.16.50.2:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=44ef4f963d93aaa1ce985154a4896c4324512643-21bda259feef8ffd92a04714a4f03290-1667300948-1667290148
+
+#EXTINF:-1 group-title="ONLY STAR JALSHA",STAR JALSHA HD S2
+https://nayeem-ban.chadasaniya.ml/STARJALSAIND-Bang/index.m3u8?token=test
+
+#EXTINF:-1 group-title="ONLY STAR JALSHA",STAR JALSHA HD S3 bciptv
+http://15.1.5.10:8082/jalsha/tracks-v1a1/mono.m3u8?token=606a20f1c2d73c50f887a39ed9ef75ace3a46364-dbb6298910b7da604cf5d8bf219b8f88-1667301214-1667290414
+
+#EXTINF:-1 group-title="ONLY STAR JALSHA",STAR JALSHA HD S4
+http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=b529d51dfe53b6cb3efebf5d0407ecc49f95fb20-6bbe97d67b7ee20c73a97407f61fa2e6-1662838821-1662828021
+
+#EXTINF:-1 group-title="ONLY STAR JALSHA",
+
+
+#EXTINF:-1 group-title="ONLY STAR JALSHA",
+
+
+#EXTINF:-1 group-title="ONLY STAR JALSHA",
+
+
+#EXTINF:-1 group-title="ONLY STAR JALSHA",
+
+
+#EXTINF:-1 group-title="ONLY STAR JALSHA",
+
+
+
+#EXTINF:-1 group-title="ONLY STAR JALSHA", 7.STAR JALSHA HD
+http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=b529d51dfe53b6cb3efebf5d0407ecc49f95fb20-6bbe97d67b7ee20c73a97407f61fa2e6-1662838821-1662828021
+
+#EXTINF:-1 group-title="ONLY STAR JALSHA", 8.STAR JALASHA S1 (BDXI)
+http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=6cfb9278fc60e2aab053954db5c10b495b333b61-bc704beca05c33f1daa2638c5d7c9ad6-1662680775-1662669975
+
+#EXTINF:-1 group-title="ONLY STAR JALSHA", 9.STAR JALASHA S2
+http://172.50.50.8:8080/hls/channel12.m3u8
+
+#EXTINF:-1 group-title="ONLY STAR JALSHA", 10.STAR JALASHA S4 (3RD PARTY)
+http://50.7.237.4:8080/STARJALSHA/tracks-v1a1/index.m3u8
+
+
+
 
 "BCIPTV"        "BCIPTV"        "BCIPTV"          "BCIPTV"
 
