@@ -95,33 +95,23 @@ http://15.1.5.10:8082/jalsha/tracks-v1a1/mono.m3u8?token=606a20f1c2d73c50f887a39
 #EXTINF:-1 group-title="ONLY STAR JALSHA",STAR JALSHA HD S4
 http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=b529d51dfe53b6cb3efebf5d0407ecc49f95fb20-6bbe97d67b7ee20c73a97407f61fa2e6-1662838821-1662828021
 
-#EXTINF:-1 group-title="ONLY STAR JALSHA",
-
-
-#EXTINF:-1 group-title="ONLY STAR JALSHA",
-
-
-#EXTINF:-1 group-title="ONLY STAR JALSHA",
-
-
-#EXTINF:-1 group-title="ONLY STAR JALSHA",
-
-
-#EXTINF:-1 group-title="ONLY STAR JALSHA",
-
-
-
 #EXTINF:-1 group-title="ONLY STAR JALSHA",STAR JALSHA HD S5
 http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=b529d51dfe53b6cb3efebf5d0407ecc49f95fb20-6bbe97d67b7ee20c73a97407f61fa2e6-1662838821-1662828021
 
-#EXTINF:-1 group-title="ONLY STAR JALSHA",STAR JALASHA S6 (BDXI)
+#EXTINF:-1 group-title="ONLY STAR JALSHA",STAR JALSHA HD S6
 http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=6cfb9278fc60e2aab053954db5c10b495b333b61-bc704beca05c33f1daa2638c5d7c9ad6-1662680775-1662669975
 
-#EXTINF:-1 group-title="ONLY STAR JALSHA",STAR JALASHA S7
+#EXTINF:-1 group-title="ONLY STAR JALSHA",STAR JALSHA HD S7
 http://172.50.50.8:8080/hls/channel12.m3u8
 
-#EXTINF:-1 group-title="ONLY STAR JALSHA",STAR JALASHA S8 (3RD PARTY)
+#EXTINF:-1 group-title="ONLY STAR JALSHA",STAR JALSHA HD S8
 http://50.7.237.4:8080/STARJALSHA/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="ONLY STAR JALSHA",
+
+
+
+
 
 
 
