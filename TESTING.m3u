@@ -1,0 +1,71 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="SPORTS", T SPORTS HD
+http://10.10.10.18:3255/TSportsHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS", STAR SPORTS 1 HD
+http://10.10.10.18:3255/StarSports1/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="SPORTS", STAR SPORTS 2 HD
+http://10.10.10.18:3255/StarSports2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS", P TV STORTS
+http://10.10.10.18:3255/ptv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="SPORTS", T Sports HD
+
+
+#EXTINF:-1 group-title="SPORTS", T Sports HD
+
+
+
+#EXTINF:-1 group-title="SPORTS", T Sports HD
+
+
+
+#EXTINF:-1 group-title="SPORTS", T Sports HD
+
+
+
+#EXTINF:-1 group-title="SPORTS", T Sports HD
+
+
+
+#EXTINF:-1 group-title="INDIAN BANGLA", SATR JALSHA HD
+http://10.10.10.18:3255/starjolsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", ZEE BANGLA HD
+http://10.10.10.18:3255/ZeeBangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", COLORS BANGLA CINEMA
+http://10.10.10.18:3255/COLORS-BANGLA-CINEMA/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="INDIAN BANGLA", ENTER 10 BAMGLA 
+http://10.10.10.18:3255/ENTER10-BANGLA/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="NEWS", Somoy TV
+http://example-link.com/live/somoytv.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT", Zee Bangla
+http://example-link.com/live/zeebangla.m3u8
