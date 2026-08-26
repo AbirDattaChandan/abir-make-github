@@ -43,13 +43,45 @@ http://10.10.10.18:3255/EurosportHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS", FAST SPORT HD (CARAM BOARD)
 http://10.10.10.18:3255/tapmad_combo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="SPORTS", 
+#EXTINF:-1 group-title="SPORTS", T SPORT HD
+http://172.19.17.3:8090/hls/tsportshd.m3u8
 
-#EXTINF:-1 group-title="SPORTS", 
+#EXTINF:-1 group-title="SPORTS", BEIN SPORT 1 ENG
+http://172.19.17.3:8090/hls/BeinSports1ENG.m3u8
 
-#EXTINF:-1 group-title="SPORTS", 
 
-#EXTINF:-1 group-title="SPORTS", 
+--- RED FORCE LIVE TV SERVES ---
+
+
+#EXTINF:-1 group-title="SPORTS", A SPORTS HD
+http://redforce.live:8082/A.SPORTS.HD/tracks-v1a1/mono.m3u8?token=a93743cf71a7118646c3b26798db6b81ac5d09a1-41eb810a10b26790dcdb0cfb9416c297-1783766571-1783755771
+
+#EXTINF:-1 group-title="SPORTS", EUROSPORTS HD
+http://redforce.live:8082/EUROSPORTS.HD/tracks-v1a1/mono.m3u8?token=62b273c493a2156af87f3a5ae1c178c0b63fa045-c7616660642306cf5f123b734270187f-1783766714-1783755914
+
+#EXTINF:-1 group-title="SPORTS", FAST SPORT HD 1
+http://redforce.live:8082/FAST.SPORTS.HD/tracks-v1a1/mono.m3u8?token=da92e6ef1ffe2913ff6161230a8005eaba7fa34a-35a2055188216878be8a1612846ea6a9-1783766804-1783756004
+
+#EXTINF:-1 group-title="SPORTS", PTV SPORTS HD
+http://redforce.live:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?token=1dc3b8c8897f20ab436671b7f0343dfdec577d75-5f59b05c5c2be8de1bb2658c45395a49-1783766837-1783756037
+
+#EXTINF:-1 group-title="SPORTS", SONY SPORTS 1 HD
+http://redforce.live:8082/SONY.SPORTS.1HD/tracks-v1a1/mono.m3u8?token=0df1bf7650819d2f2162f0d3af43b1a6dee4a18e-4a2a935cb18189e326da6d01b3c44a0b-1783766997-1783756197
+
+#EXTINF:-1 group-title="SPORTS", TATA SPORTS HD
+http://redforce.live:8082/SSC.SPORTS.5.HD/tracks-v1a1/mono.m3u8?token=fd156214d5d9011d0c4da164f44edc59193e7875-fe4e2f44ec837067d281d0b834af8e05-1783767025-1783756225
+
+#EXTINF:-1 group-title="SPORTS", T SPORTS HD
+http://redforce.live:8082/T-SPORTS-HD/tracks-a1/mono.m3u8?token=cc5498faf89c07d44ba08bf19abef1292a9cc9dc-cba26ff6b262211b0aa2357db26ab22a-1783767074-1783756274
+
+#EXTINF:-1 group-title="SPORTS", STAR SPORTS 1 HD
+http://redforce.live:8082/STAR.SPORTS1.HD/tracks-v1a1/mono.m3u8?token=ab767f382e25003ea331af6a527de8ed4acfcb8d-724b229163dcbecd9ac23dee3157a782-1783767106-1783756306
+
+#EXTINF:-1 group-title="SPORTS",
+
+
+#EXTINF:-1 group-title="SPORTS",
+ 
 
 
 
@@ -57,6 +89,21 @@ http://10.10.10.18:3255/tapmad_combo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA", SATR JALSHA HD
 http://10.10.10.18:3255/starjolsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", SONY AATH TV
+http://10.10.10.18:3255/SonyAath/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", ZEE BANGLA CINEMA HD
+http://10.10.10.18:3255/ZEE-BANGLA-CINEMA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", JALSHA MOVIES HD
+http://10.10.10.18:3255/JALSHA-MOVIES-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", SUN BANGLA HD
+http://10.10.10.18:3255/SUN-BANGLA-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", COLORS BANGLA CINEMA
+http://10.10.10.18:3255/COLORS-BANGLA-CINEMA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA", ZEE BANGLA HD
 http://10.10.10.18:3255/ZeeBangla/tracks-v1a1/mono.m3u8
@@ -66,6 +113,99 @@ http://10.10.10.18:3255/COLORS-BANGLA-CINEMA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA", ENTER 10 BAMGLA 
 http://10.10.10.18:3255/ENTER10-BANGLA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", JALSHA MOVIES HD
+http://10.10.10.18:3255/JALSHA-MOVIES-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", JALSHA MOVIES HD 1
+http://172.19.17.3:8090/hls/JalshaMoviesHD.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", SONY ATTH 1
+http://172.19.17.3:8090/hls/SonyAtth.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", STAR JALSHA HD 1
+http://172.19.17.3:8090/hls/StarJalshaHD.m3u8
+
+#EXTINF:-1 group-title="MUSIC ", SANGEET BANGLA HD
+http://172.19.17.3:8090/hls/SangeetBangla.m3u8
+
+#EXTINF:-1 group-title="MUSIC", 9XM MUSIC
+http://172.19.17.3:8090/hls/9xm.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 
+
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 
+
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 
+
+
+#EXTINF:-1 group-title="INDIAN BANGLA", 
+-------
+
+#EXTINF:-1 group-title="INDIAN HINDI", SONY ENT TV HD
+http://10.10.10.18:3255/SonyEntertainmentTelevisionHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN HINDI", STAR MOVIE HD
+http://10.10.10.18:3255/Star-Movies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN HINDI", SONY MAX HD
+http://10.10.10.18:3255/SonyMAX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN HINDI", COLORS CINEPLEX HD
+http://10.10.10.18:3255/COLORS-CINEPLEX-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN HINDI", STAR PLUS HD
+http://10.10.10.18:3255/Star-Plus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN HINDI", STAR BHARAT HD
+http://10.10.10.18:3255/STAR-BHARAT-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN HINDI", AND PICTURE HD
+http://172.19.17.3:8090/hls/AndPictureHD.m3u8
+
+#EXTINF:-1 group-title="INDIAN HINDI", ZEE CINEMA HD
+http://10.10.10.18:3255/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN HINDI", STAR GOLD HD
+http://10.10.10.18:3255/Star-Gold/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN HINDI", ZEE BOLLYWOOD HD
+http://10.10.10.18:3255/ZeeBollywood/tracks-v1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN HINDI", ZEE CINEMA HD
+http://10.10.10.18:3255/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN HINDI", STAR GOLD SELECTED
+http://10.10.10.18:3255/STAR-GOLD-SEL-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="ENGLISH CHANNELS", MOVIES NOW HD
+http://10.10.10.18:3255/MOVIES-NOW-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="ENGLISH CHANNELS", MN PLUS HD
+http://10.10.10.18:3255/MN-PLUS-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="ENGLISH CHANNELS", ROMEDY NOW
+http://10.10.10.18:3255/ROMEDY-NOW/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="ENGLISH CHANNELS", MXN HD
+http://10.10.10.18:3255/MNX-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="ENGLISH CHANNELS", STAR MOVIES SELETED HD
+http://10.10.10.18:3255/STAR-MOVIES-SEL-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="ENGLISH CHANNELS", STAR MOVIES HD
+http://172.19.17.3:8090/hls/StarMoviesHD.m3u8
+
+#EXTINF:-1 group-title="INDIAN HINDI", COLORS HD
+http://172.19.17.3:8090/hls/ColorsHD.m3u8
+
+#EXTINF:-1 group-title="INDIAN HINDI", SONY MAX HD
+http://172.19.17.3:8090/hls/sonymaxhd.m3u8
+
+#EXTINF:-1 group-title="INDIAN HINDI", STAR PLUS HD
+http://172.19.17.3:8090/hls/StarPlusHD.m3u8
 
 -------
 
@@ -82,7 +222,30 @@ http://10.10.10.18:3255/TLCHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INFORMATIONAL CHANNEL", BBC EARTH HD 
 http://10.10.10.18:3255/BC-Earth-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="INDIAN BANGLA", ENTER 10 BAMGLA 
+#EXTINF:-1 group-title="INFORMATIONAL CHANNEL", BBC EARTH HD 1
+http://10.10.10.18:3255/BC-Earth-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INFORMATIONAL CHANNEL", TRAVEL XP HD
+http://10.10.10.18:3255/TRAVELXP-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INFORMATIONAL CHANNEL", NAT GEO WILD HD
+http://10.10.10.18:3255/NATGEO-WILD-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INFORMATIONAL CHANNEL", HISTORY TV 18 HD
+http://10.10.10.18:3255/HISTORY-TV-18-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INFORMATIONAL CHANNEL", SONY EARTH HD
+http://10.10.10.18:3255/SONY-BBC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INFORMATIONAL CHANNEL", NAT GEO HD
+http://10.10.10.18:3255/NATGEO-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INFORMATIONAL CHANNEL", DISCOVERY HD
+http://172.19.17.3:8090/hls/DiscoveryHD.m3u8
+
+#EXTINF:-1 group-title="INFORMATIONAL CHANNEL", 
+
+
 
 #EXTINF:-2 group-title="BD BANGLA CHANNEL", NAGORIK TV
 http://10.10.10.18:3255/nagorik_r/tracks-v1a1/mono.m3u8
@@ -102,6 +265,64 @@ http://10.10.10.18:3255/JAMUNATV/tracks-v1a1/mono.m3u8
 #EXTINF:-2 group-title="BD BANGLA CHANNEL", CHANNEL 24 HD
 http://10.10.10.18:3255/CH24/tracks-v1a1/mono.m3u8
 
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", SOMOY TV HD
+http://10.10.10.18:3255/somyyt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", BANGLA VISION HD
+http://10.10.10.18:3255/BanglaV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", DEEPTHO TV HD
+http://10.10.10.18:3255/deeptho_nk/tracks-v1a1/mono.m3u8
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", INDEPENDENT TV HD
+http://10.10.10.18:3255/indopendettv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", BTV National HD
+http://172.19.17.3:8090/hls/BTVNationalHD.m3u8
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+http://redforce.live:8082/ASIAN.TV.HD/tracks-a1/mono.m3u8?token=59c594ca285f39da3d5d8ee47c2a58d5dc351cc2-e22dc6e52d31b3d2abe5e27657251ffa-1783768052-1783757252
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+http://redforce.live:8082/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=466cbcfd40e4c5c4e3227a25a30f82cafb494ff4-b7982865650a8a19c75dc69e0e0bd404-1783768062-1783757262
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+http://redforce.live:8082/ATN.NEWS.HD/tracks-v1a1/mono.m3u8?token=0282ff4e34397b3ec394c667b22c03c552daaf6e-9695cfb7ac20c4d28a64a50c2345235f-1783768073-1783757273
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+http://redforce.live:8082/BTV.HD/tracks-v1a1/mono.m3u8?token=cd8700a7419d99a45e30186c2ff37ee7bc0d73d7-744483441dfe14b13480fa204c356819-1783768083-1783757283
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+http://redforce.live:8082/CHANNEL.24.HD/tracks-a1/mono.m3u8?token=353ef827e868bc56f87d6be5322c67bcfd17de24-344595d3de70c6f2bec81649a500d13b-1783768119-1783757319
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+http://redforce.live:8082/CHANNEL.I.HD/tracks-v1a1/mono.m3u8?token=4ceb39f342015447cf0869b7936445a66bc2a07d-168a252bfe7b0f6deacd1191661548eb-1783768128-1783757328
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+http://redforce.live:8082/DBC.NEWS.HD/tracks-v1a1/mono.m3u8?token=45f56227a56d4fa8d04fb4333a5860efb93070f0-f2f3954ba7327a398f681cbd249efd20-1783768140-1783757340
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+http://redforce.live:8082/EKATTOR.TV.HD/tracks-v1a1/mono.m3u8?token=9df4865e40c4501333eb63a41feb72b5a664c889-8d7549a3e2d0251c8991cf820369b79d-1783768157-1783757357
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+http://redforce.live:8082/GAZI.TV.HD/tracks-v1a1/mono.m3u8?token=0d2b8025220d40c2bb659bf55361fc1ad2064604-a261a0487fa416d44652de2af9e0826c-1783768169-1783757369
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+http://redforce.live:8082/INDEPENDENT.TV/tracks-v1a1/mono.m3u8?token=30d7182de1bd74819d637a52b38f163e41bd41a9-f0792ff37bc83297376b37509401f5fc-1783768180-1783757380
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+http://redforce.live:8082/JAMUNA.TV/tracks-v1a1/mono.m3u8?token=bda8d3f0669ef917b431468da5f9b22082f79bb3-112938d6bee539bcb686e8ad1d1aec2a-1783768191-1783757391
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+http://redforce.live:8082/MASRANGA.TV.HD/tracks-v1a1/mono.m3u8?token=600d7e1d2035543ac8e6209247ee589415744357-846c45abfa5e46a3575eaf5fe5bb4543-1783768200-1783757400
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+http://redforce.live:8082/NEWS.24.HD/tracks-v1a1/mono.m3u8?token=f22925508790295ecc863ef8ed521b5cf0353a65-d3aac56e1cd7fdb63961f56297b843e1-1783768213-1783757413
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+http://redforce.live:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=34984c33129ad315c8465b8b4f5052207bd82a02-187bcbdfde12ff6f58065d84d890fb99-1783768226-1783757426
+
+
 #EXTINF:-2 group-title="BD BANGLA CHANNEL", 
 
 
@@ -117,4 +338,77 @@ http://10.10.10.18:3255/CH24/tracks-v1a1/mono.m3u8
 #EXTINF:-2 group-title="BD BANGLA CHANNEL", 
 
 
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+#EXTINF:-2 group-title="KIDS", DISCOVERY KIDS HD
+http://172.19.17.3:8090/hls/DiscoveryKids.m3u8
+
+#EXTINF:-2 group-title="KIDS", CARTOON NETWORK HD
+http://172.19.17.3:8090/hls/CartoonNetworkHD.m3u8
+
+#EXTINF:-2 group-title="KIDS", E TV BAL BHARAT
+http://redforce.live:8082/ETV.BAL.BHARAT/tracks-v1a1/mono.m3u8?token=9d692100c79ce921c0df16c2942d136b81d4694d-52597b9dcbb2b6570c8b0f757476c2e8-1783767145-1783756345
+
+#EXTINF:-2 group-title="KIDS", CARTOON NETWORK HD
+http://redforce.live:8082/CARTON.NETWORK.HD/tracks-v1a1/mono.m3u8?token=a57da9976a18b2666ec683c90083cc5be6d00290-dda01a162bc6c7f25894634fefa00819-1783767709-1783756909
+
+#EXTINF:-2 group-title="KIDS", DISNEY JUNIAR
+http://redforce.live:8082/DISNEY.JUNIAR/tracks-v1a1/mono.m3u8?token=cc2fbc83bfd55924588b4f1b51a366ffeed04c2c-83f504a8d0b4e494c93cc98eca93799c-1783767723-1783756923
+
+#EXTINF:-2 group-title="KIDS", DURANTA TV HD
+http://redforce.live:8082/DURANTA.TV.HD/tracks-v1a1/mono.m3u8?token=c1948819e366dfd55627dbdba79b1381e19baba3-53dbf97bc794722989bafb46abaf0b5e-1783767735-1783756935
+
+#EXTINF:-2 group-title="KIDS", HUNGAMA
+http://redforce.live:8082/HUNGAMA/tracks-v1a1/mono.m3u8?token=d17767b11d3bbfacb5fd13b36d509f682df39759-b894a6f4fb21c8873321a08c2ba2d81f-1783767749-1783756949
+
+#EXTINF:-2 group-title="KIDS", NICK
+http://redforce.live:8082/NICK/tracks-v1a1/mono.m3u8?token=53285af3bb23a8f71b3fce9256f28216fe99b00e-ed0fa401ab5994ffe83e10fef60e024c-1783767795-1783756995
+
+#EXTINF:-2 group-title="KIDS", NICK JR
+http://redforce.live:8082/NICK.JR/tracks-v1a1/mono.m3u8?token=80079f23e99cc7be6112ffde97f8f9a400298abe-9a7f6e0343ae0abd7b695caab7a37735-1783767807-1783757007
+
+ #EXTINF:-2 group-title="KIDS", POGO
+http://redforce.live:8082/POGO/tracks-v1a1/mono.m3u8?token=eee0eadfb1409feb703081bf1e4dd57727287590-625f6c127e7faaf6f300baf360369d05-1783767820-1783757020
+
+#EXTINF:-2 group-title="KIDS", SONIC
+http://redforce.live:8082/SONIC/tracks-v1a1/mono.m3u8?token=368888af77224524115b1dc4f653c507acebdebb-1758e2e4e8bf462aa0b2f329be233d21-1783767871-1783757071
+
+#EXTINF:-2 group-title="KIDS", SONY YAY
+http://redforce.live:8082/SONY.YAY/tracks-v1a1/mono.m3u8?token=45d9cafd24c1f75007795eb081467358a50bf8c9-509389d72e3e10872e7a01eb03e452ce-1783767889-1783757089
+
+#EXTINF:-2 group-title="KIDS", SUPER HUNGAMA
+http://redforce.live:8082/SUPER.HUNGAMA/tracks-v1a1/mono.m3u8?token=1e6cd36050c7cff4804c62d4fa1ea667760151d7-6d553a8c44c2818055de2151b6d12899-1783767900-1783757100
+
+#EXTINF:-2 group-title="KIDS",
+
+
+
+#EXTINF:-2 group-title="KIDS",
+
+
+#EXTINF:-2 group-title="KIDS",
+
+
+#EXTINF:-2 group-title="KIDS",
+
+
+
+#EXTINF:-2 group-title="KIDS",
 ---------OTHER-----------
