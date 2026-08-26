@@ -1,0 +1,84 @@
+#EXTM3U
+---
+
+#EXTINF:-1 group-title="SPORTS", T SPORTS HD
+http://10.10.10.18:3255/TSportsHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS", STAR SPORTS 1 HD
+http://10.10.10.18:3255/StarSports1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS", STAR SPORTS 2 HD
+http://10.10.10.18:3255/StarSports2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS", P TV STORTS
+http://10.10.10.18:3255/ptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS", A TV Sports HD
+http://10.10.10.18:3255/A-SPORTS-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS", STAR SPORTS SELECT 1 HD
+http://10.10.10.18:3255/StarSportss1/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS", STAR SPORTS SELECT 2 HD
+http://10.10.10.18:3255/StarSportss2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS", SONY TEN SPORTS 2 HD
+http://10.10.10.18:3255/SonyTenSports2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS", SONY TEN SPORTS 3 HD
+http://10.10.10.18:3255/SONY-SPORTS3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS", SONY TEN SPORTS 4 HD
+http://10.10.10.18:3255/SONY-SPORTS4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS", 
+
+
+#EXTINF:-1 group-title="SPORTS", 
+
+
+#EXTINF:-1 group-title="SPORTS",
+
+
+#EXTINF:-1 group-title="SPORTS", 
+
+
+
+---
+
+#EXTINF:-1 group-title="INDIAN BANGLA", SATR JALSHA HD
+http://10.10.10.18:3255/starjolsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", ZEE BANGLA HD
+http://10.10.10.18:3255/ZeeBangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", COLORS BANGLA CINEMA
+http://10.10.10.18:3255/COLORS-BANGLA-CINEMA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", ENTER 10 BAMGLA 
+http://10.10.10.18:3255/ENTER10-BANGLA/tracks-v1a1/mono.m3u8
+
+-------
+
+#EXTINF:-1 group-title="INFORMATIONAL CHANNEL", Animal Planet HD
+http://10.10.10.18:3255/AnimalPlanetHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INFORMATIONAL CHANNEL", DISCOVERY HD
+http://10.10.10.18:3255/Discovery/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="INFORMATIONAL CHANNEL", TLC BD 
+http://10.10.10.18:3255/TLCHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INFORMATIONAL CHANNEL", BBC EARTH HD 
+http://10.10.10.18:3255/BC-Earth-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA", ENTER 10 BAMGLA 
+
+#EXTINF:-1 group-title="BD BANGLA CHANNEL", NAGORIK TV
+http://10.10.10.18:3255/nagorik_r/tracks-v1a1/mono.m3u8
+
+---------OTHER-----------
