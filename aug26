@@ -34,14 +34,20 @@ http://10.10.10.18:3255/SONY-SPORTS3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS", SONY TEN SPORTS 4 HD
 http://10.10.10.18:3255/SONY-SPORTS4/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="SPORTS", SONY TEN SPORTS 5 HD
+http://10.10.10.18:3255/SONY-SPORTS.5HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS", Eurosport HD
+http://10.10.10.18:3255/EurosportHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS", FAST SPORT HD (CARAM BOARD)
+http://10.10.10.18:3255/tapmad_combo/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="SPORTS", 
 
-
 #EXTINF:-1 group-title="SPORTS", 
 
-
-#EXTINF:-1 group-title="SPORTS",
-
+#EXTINF:-1 group-title="SPORTS", 
 
 #EXTINF:-1 group-title="SPORTS", 
 
@@ -78,7 +84,37 @@ http://10.10.10.18:3255/BC-Earth-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA", ENTER 10 BAMGLA 
 
-#EXTINF:-1 group-title="BD BANGLA CHANNEL", NAGORIK TV
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", NAGORIK TV
 http://10.10.10.18:3255/nagorik_r/tracks-v1a1/mono.m3u8
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", G TV HD
+http://10.10.10.18:3255/gtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", EKHON TV HD
+http://10.10.10.18:3255/EKHONTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", CHNNEL I HD
+http://10.10.10.18:3255/chnnel-i/tracks-v1a1/mono.m3u8
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", JAMUNA TV HD
+http://10.10.10.18:3255/JAMUNATV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", CHANNEL 24 HD
+http://10.10.10.18:3255/CH24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+
+
+#EXTINF:-2 group-title="BD BANGLA CHANNEL", 
+
 
 ---------OTHER-----------
